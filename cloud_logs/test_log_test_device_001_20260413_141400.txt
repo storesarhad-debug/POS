@@ -1,0 +1,6 @@
+Test Log from test_device_001
+Timestamp: 2026-04-13 14:14:00.736361
+This is a test log file for GitHub upload verification.
+Line 1: Application started
+Line 2: User logged in
+Line 3: Sale completed
