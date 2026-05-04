@@ -1,0 +1,86 @@
+QT EXCEPTION: IndentationError: unexpected indent (business_logic.py, line 594)
+Timestamp: 2026-02-10 18:09:13.688330
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\main.py", line 79, in <module>
+    from pos_app.controllers.safe_business_controller import SafeBusinessController as BusinessController
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 3, in <module>
+    from pos_app.controllers.business_logic import BusinessController
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 594
+    supplier_id=supplier_id,
+IndentationError: unexpected indent
+
+================================================================================
+QT EXCEPTION: SyntaxError: expected 'except' or 'finally' block (business_logic.py, line 804)
+Timestamp: 2026-02-12 17:05:48.942185
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\main.py", line 79, in <module>
+    from pos_app.controllers.safe_business_controller import SafeBusinessController as BusinessController
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 3, in <module>
+    from pos_app.controllers.business_logic import BusinessController
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 804
+    purchase.status = 'RECEIVED'
+    ^^^^^^^^
+SyntaxError: expected 'except' or 'finally' block
+
+================================================================================
+QT EXCEPTION: ModuleNotFoundError: No module named 'PySide2'
+Timestamp: 2026-02-12 20:16:38.537607
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\main.py", line 77, in <module>
+    from pos_app.views.main_window import MainWindow
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\main_window.py", line 31, in <module>
+    from pos_app.views.advanced_analytics_center import AdvancedAnalyticsCenter
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\advanced_analytics_center.py", line 11, in <module>
+    from PySide2.QtWidgets import *
+ModuleNotFoundError: No module named 'PySide2'
+
+================================================================================
+QT EXCEPTION: ModuleNotFoundError: No module named 'pandas'
+Timestamp: 2026-02-12 20:17:44.136268
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\main.py", line 77, in <module>
+    from pos_app.views.main_window import MainWindow
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\main_window.py", line 31, in <module>
+    from pos_app.views.advanced_analytics_center import AdvancedAnalyticsCenter
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\advanced_analytics_center.py", line 22, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+================================================================================
+QT EXCEPTION: ImportError: cannot import name 'BusinessController' from 'pos_app.controllers.business_logic' (C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py)
+Timestamp: 2026-04-01 17:08:55.439908
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\main.py", line 79, in <module>
+    from pos_app.controllers.safe_business_controller import SafeBusinessController as BusinessController
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 3, in <module>
+    from pos_app.controllers.business_logic import BusinessController
+ImportError: cannot import name 'BusinessController' from 'pos_app.controllers.business_logic' (C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py)
+
+================================================================================
+QT EXCEPTION: ImportError: cannot import name 'BusinessController' from 'pos_app.controllers.business_logic' (C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py)
+Timestamp: 2026-04-01 17:10:54.184584
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\main.py", line 79, in <module>
+    from pos_app.controllers.safe_business_controller import SafeBusinessController as BusinessController
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 3, in <module>
+    from pos_app.controllers.business_logic import BusinessController
+ImportError: cannot import name 'BusinessController' from 'pos_app.controllers.business_logic' (C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py)
+
+================================================================================
+QT EXCEPTION: ImportError: cannot import name 'BusinessController' from 'pos_app.controllers.business_logic' (C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py)
+Timestamp: 2026-04-06 18:39:42.970522
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\main.py", line 79, in <module>
+    from pos_app.controllers.safe_business_controller import SafeBusinessController as BusinessController
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 3, in <module>
+    from pos_app.controllers.business_logic import BusinessController
+ImportError: cannot import name 'BusinessController' from 'pos_app.controllers.business_logic' (C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py)
+
+================================================================================
