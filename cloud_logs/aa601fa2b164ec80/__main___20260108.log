@@ -1,0 +1,18 @@
+2026-01-08 20:09:35,254 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\views\sales.py", line 3428, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-08 20:09:38,063 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\views\sales.py", line 3428, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-08 20:09:38,063 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\views\sales.py", line 3428, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
