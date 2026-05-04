@@ -1,0 +1,26 @@
+2026-01-14 15:51:21,367 - INFO - POS System starting - Error handler initialized
+2026-01-14 15:51:21,370 - INFO - POS System starting - Error handler initialized
+2026-01-14 15:51:21,371 - ERROR - UNHANDLED EXCEPTION: ImportError: cannot import name 'BusinessLogicController' from 'pos_app.controllers.business_logic' (C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py)
+2026-01-14 15:51:21,371 - ERROR - Traceback:
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\debug_stock.py", line 10, in <module>
+    from pos_app.controllers.business_logic import BusinessLogicController
+ImportError: cannot import name 'BusinessLogicController' from 'pos_app.controllers.business_logic' (C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py)
+2026-01-14 15:52:01,428 - INFO - POS System starting - Error handler initialized
+2026-01-14 15:52:01,524 - INFO - POS System starting - Error handler initialized
+2026-01-14 15:52:02,438 - ERROR - UNHANDLED EXCEPTION: AttributeError: type object 'StockMovement' has no attribute 'created_at'
+2026-01-14 15:52:02,439 - ERROR - Traceback:
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\debug_stock.py", line 88, in <module>
+    debug_stock_issue()
+    ~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\debug_stock.py", line 41, in debug_stock_issue
+    ).order_by(StockMovement.created_at.desc()).limit(5).all()
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'StockMovement' has no attribute 'created_at'
+2026-01-14 15:52:29,313 - INFO - POS System starting - Error handler initialized
+2026-01-14 15:52:29,317 - INFO - POS System starting - Error handler initialized
+2026-01-14 15:52:44,625 - INFO - POS System starting - Error handler initialized
+2026-01-14 15:52:44,628 - INFO - POS System starting - Error handler initialized
+2026-01-14 15:53:08,929 - INFO - POS System starting - Error handler initialized
+2026-01-14 15:53:08,933 - INFO - POS System starting - Error handler initialized
