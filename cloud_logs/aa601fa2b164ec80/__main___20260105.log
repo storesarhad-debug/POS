@@ -1,0 +1,23 @@
+2026-01-05 16:49:12,781 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\main.py", line 640, in <module>
+    main()
+    ~~~~^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\main.py", line 569, in main
+    window = MainWindow(controllers, user)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\views\main_window.py", line 45, in __init__
+    self.setup_ui()
+    ~~~~~~~~~~~~~^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\views\main_window.py", line 215, in setup_ui
+    self.sales = SalesWidget(self.controllers['sales'])
+                 ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\views\sales.py", line 632, in __init__
+    self.setup_ui()
+    ~~~~~~~~~~~~~^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\views\sales.py", line 1018, in setup_ui
+    self.create_cart_section(main_content)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\views\sales.py", line 1781, in create_cart_section
+    self.cart_table.cellDoubleClicked.connect(self.on_cart_cell_double_clicked)
+                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'SalesWidget' object has no attribute 'on_cart_cell_double_clicked'. Did you mean: '_on_cart_item_double_clicked'?
+
