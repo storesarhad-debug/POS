@@ -1,0 +1,47 @@
+2026-01-31 15:25:38,846 - app - INFO - Cached credentials for user: ali
+2026-01-31 15:25:38,855 - app - INFO - User ali logged in from database
+2026-01-31 19:38:28,435 - app - ERROR - Failed to generate customer report
+Traceback (most recent call last):
+  File "C:\Users\pc\Music\pos_app\views\reports.py", line 487, in generate_customer_report
+    customers = controller.get_customer_report(start_date, end_date)
+AttributeError: 'SafeBusinessController' object has no attribute 'get_customer_report'
+2026-01-31 19:38:30,410 - app - ERROR - Failed to generate customer report
+Traceback (most recent call last):
+  File "C:\Users\pc\Music\pos_app\views\reports.py", line 487, in generate_customer_report
+    customers = controller.get_customer_report(start_date, end_date)
+AttributeError: 'SafeBusinessController' object has no attribute 'get_customer_report'
+2026-01-31 19:38:30,572 - app - ERROR - Failed to generate customer report
+Traceback (most recent call last):
+  File "C:\Users\pc\Music\pos_app\views\reports.py", line 487, in generate_customer_report
+    customers = controller.get_customer_report(start_date, end_date)
+AttributeError: 'SafeBusinessController' object has no attribute 'get_customer_report'
+2026-01-31 19:38:30,724 - app - ERROR - Failed to generate customer report
+Traceback (most recent call last):
+  File "C:\Users\pc\Music\pos_app\views\reports.py", line 487, in generate_customer_report
+    customers = controller.get_customer_report(start_date, end_date)
+AttributeError: 'SafeBusinessController' object has no attribute 'get_customer_report'
+2026-01-31 19:38:31,805 - app - ERROR - Failed to generate customer report
+Traceback (most recent call last):
+  File "C:\Users\pc\Music\pos_app\views\reports.py", line 487, in generate_customer_report
+    customers = controller.get_customer_report(start_date, end_date)
+AttributeError: 'SafeBusinessController' object has no attribute 'get_customer_report'
+2026-01-31 19:38:31,988 - app - ERROR - Failed to generate customer report
+Traceback (most recent call last):
+  File "C:\Users\pc\Music\pos_app\views\reports.py", line 487, in generate_customer_report
+    customers = controller.get_customer_report(start_date, end_date)
+AttributeError: 'SafeBusinessController' object has no attribute 'get_customer_report'
+2026-01-31 19:38:37,052 - app - ERROR - Failed to generate customer report
+Traceback (most recent call last):
+  File "C:\Users\pc\Music\pos_app\views\reports.py", line 487, in generate_customer_report
+    customers = controller.get_customer_report(start_date, end_date)
+AttributeError: 'SafeBusinessController' object has no attribute 'get_customer_report'
+2026-01-31 19:38:37,205 - app - ERROR - Failed to generate customer report
+Traceback (most recent call last):
+  File "C:\Users\pc\Music\pos_app\views\reports.py", line 487, in generate_customer_report
+    customers = controller.get_customer_report(start_date, end_date)
+AttributeError: 'SafeBusinessController' object has no attribute 'get_customer_report'
+2026-01-31 19:38:37,354 - app - ERROR - Failed to generate customer report
+Traceback (most recent call last):
+  File "C:\Users\pc\Music\pos_app\views\reports.py", line 487, in generate_customer_report
+    customers = controller.get_customer_report(start_date, end_date)
+AttributeError: 'SafeBusinessController' object has no attribute 'get_customer_report'
