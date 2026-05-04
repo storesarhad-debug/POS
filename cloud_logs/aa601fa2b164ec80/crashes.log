@@ -1,0 +1,2922 @@
+
+=== CRASH @ 2026-01-04 16:57:05 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-04 17:08:16 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-04 17:09:35 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-04 18:23:22 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 00:29:21 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 00:42:47 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 11:53:08 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 12:11:22 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 12:21:25 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: DUMY PRODUCT has invalid negative stock (-2.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000015394892E40>, 41, [{'product_id': 429, 'quantity': 1.0, 'unit_price': 300.0}], True, 'Cash', 300.0), kwargs={'is_refund': True, 'refund_of_sale_id': 431, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 384, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 12:21:26 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: DUMY PRODUCT has invalid negative stock (-2.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000015394892E40>, 41, [{'product_id': 429, 'quantity': 1.0, 'unit_price': 300.0}], True, 'Cash', 300.0), kwargs={'is_refund': True, 'refund_of_sale_id': 431, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 384, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 12:22:10 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: DUMY PRODUCT has invalid negative stock (-2.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000015394892E40>, None, [{'product_id': 429, 'quantity': 1.0, 'unit_price': 300.0}], True, 'Cash', 300.0), kwargs={'is_refund': True, 'refund_of_sale_id': 431, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 384, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 12:22:11 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: DUMY PRODUCT has invalid negative stock (-2.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000015394892E40>, None, [{'product_id': 429, 'quantity': 1.0, 'unit_price': 300.0}], True, 'Cash', 300.0), kwargs={'is_refund': True, 'refund_of_sale_id': 431, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 384, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 12:22:14 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: DUMY PRODUCT has invalid negative stock (-2.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000015394892E40>, None, [{'product_id': 429, 'quantity': 1.0, 'unit_price': 300.0}], True, 'Cash', 300.0), kwargs={'is_refund': True, 'refund_of_sale_id': 431, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 384, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 12:22:59 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: DUMY PRODUCT has invalid negative stock (-2.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000015394892E40>, 41, [{'product_id': 429, 'quantity': 1.0, 'unit_price': 300.0}], True, 'Cash', 300.0), kwargs={'is_refund': True, 'refund_of_sale_id': 431, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 384, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 12:23:04 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: DUMY PRODUCT has invalid negative stock (-2.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000015394892E40>, 41, [{'product_id': 429, 'quantity': 1.0, 'unit_price': 300.0}], True, 'Cash', 300.0), kwargs={'is_refund': True, 'refund_of_sale_id': 431, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 384, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 12:23:04 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: DUMY PRODUCT has invalid negative stock (-2.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000015394892E40>, 41, [{'product_id': 429, 'quantity': 1.0, 'unit_price': 300.0}], True, 'Cash', 300.0), kwargs={'is_refund': True, 'refund_of_sale_id': 431, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 384, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 12:23:05 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: DUMY PRODUCT has invalid negative stock (-2.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000015394892E40>, 41, [{'product_id': 429, 'quantity': 1.0, 'unit_price': 300.0}], True, 'Cash', 300.0), kwargs={'is_refund': True, 'refund_of_sale_id': 431, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 384, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 12:23:35 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: DUMY PRODUCT has invalid negative stock (-2.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000015394892E40>, 41, [{'product_id': 429, 'quantity': 1.0, 'unit_price': 300.0}], True, 'Cash', 300.0), kwargs={'is_refund': True, 'refund_of_sale_id': 431, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 384, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 12:23:57 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 12:27:11 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 12:31:42 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 12:39:10 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 12:49:08 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 12:50:13 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 13:00:14 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 13:27:06 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: DUMY PRODUCT has invalid negative stock (-2.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000206E5EA2F90>, None, [{'product_id': 429, 'quantity': 1, 'unit_price': 3.0}], False, 'Cash', 1129.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 384, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 13:27:23 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: DUMY PRODUCT has invalid negative stock (-2.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000206E5EA2F90>, None, [{'product_id': 429, 'quantity': 1, 'unit_price': 3.0}], False, 'Cash', 1129.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 384, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 13:39:05 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 13:48:00 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 14:01:20 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 14:03:24 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 14:05:05 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: DUMY PRODUCT has invalid negative stock (-2.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001599FD2EBA0>, 54, [{'product_id': 429, 'quantity': 1.0, 'unit_price': 2.0}], True, 'Cash', 2.0), kwargs={'is_refund': True, 'refund_of_sale_id': 445, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 384, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 14:09:49 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 14:11:13 ===
+Location: pos_app.controllers.safe_business_controller.update_stock
+Type: ValueError
+Message: Stock update failed: Insufficient stock. Available: -2.0, Requested: 1.0
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000012B736D6CF0>, 429, 1.0, 'IN'), kwargs={}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 14, in update_stock
+    return super().update_stock(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 292, in update_stock
+    raise ValueError(f"Stock update failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 14:11:13 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock update failed: Insufficient stock. Available: -2.0, Requested: 1.0
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000012B736D6CF0>, 54, [{'product_id': 429, 'quantity': 1.0, 'unit_price': 2.0}], True, 'Cash', 2.0), kwargs={'is_refund': True, 'refund_of_sale_id': 445, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 386, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 14:11:14 ===
+Location: pos_app.controllers.safe_business_controller.update_stock
+Type: ValueError
+Message: Stock update failed: Insufficient stock. Available: -2.0, Requested: 1.0
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000012B736D6CF0>, 429, 1.0, 'IN'), kwargs={}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 14, in update_stock
+    return super().update_stock(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 292, in update_stock
+    raise ValueError(f"Stock update failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 14:11:14 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock update failed: Insufficient stock. Available: -2.0, Requested: 1.0
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000012B736D6CF0>, 54, [{'product_id': 429, 'quantity': 1.0, 'unit_price': 2.0}], True, 'Cash', 2.0), kwargs={'is_refund': True, 'refund_of_sale_id': 445, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 386, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 14:29:48 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 15:36:46 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 16:25:11 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 16:31:36 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 16:39:05 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 16:48:59 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 16:54:12 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 16:55:12 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 429 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000248C44EECF0>, 54, [{'product_id': 429, 'quantity': 1.0, 'unit_price': 2.0}], True, 'Cash', 2.0), kwargs={'is_refund': True, 'refund_of_sale_id': 445, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 505, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 17:17:36 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: dsa only has 0.0 available (requested 1.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000248C44EECF0>, None, [{'product_id': 19, 'quantity': 1, 'unit_price': 550.0}], False, 'Cash', 550.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 505, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 18:25:51 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-05 18:26:52 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: dsa only has 0.0 available (requested 1.0), NATIONAL GOLD IRON M82 only has 0.0 available (requested 1.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000298ECC86E40>, None, [{'product_id': 19, 'quantity': 1, 'unit_price': 550.0}, {'product_id': 180, 'quantity': 1, 'unit_price': 2800.0}], False, 'Cash', 3350.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 505, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 18:26:54 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: dsa only has 0.0 available (requested 1.0), NATIONAL GOLD IRON M82 only has 0.0 available (requested 1.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000298ECC86E40>, None, [{'product_id': 19, 'quantity': 1, 'unit_price': 550.0}, {'product_id': 180, 'quantity': 1, 'unit_price': 2800.0}], False, 'Cash', 3350.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 505, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 18:27:37 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: Running Shoes only has 0.0 available (requested 1.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000298ECC86E40>, None, [{'product_id': 3, 'quantity': 1, 'unit_price': 4200.0}], False, 'Cash', 4160.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 40.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 505, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-05 19:07:40 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-06 00:24:58 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-06 15:50:04 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-06 15:55:07 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-06 18:38:21 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-06 18:42:39 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 5 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002D0904EAF90>, None, [{'product_id': 5, 'quantity': 1.0, 'unit_price': 210.0}, {'product_id': 24, 'quantity': 1.0, 'unit_price': 260.0}], False, 'Cash', 1070.0), kwargs={'is_refund': True, 'refund_of_sale_id': 116, 'discount_amount': 85.6}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 536, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-06 18:42:45 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 5 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002D0904EAF90>, None, [{'product_id': 5, 'quantity': 1.0, 'unit_price': 210.0}, {'product_id': 24, 'quantity': 1.0, 'unit_price': 260.0}], False, 'Cash', 1070.0), kwargs={'is_refund': True, 'refund_of_sale_id': 116, 'discount_amount': 85.6}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 536, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-06 18:42:45 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 5 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002D0904EAF90>, None, [{'product_id': 5, 'quantity': 1.0, 'unit_price': 210.0}, {'product_id': 24, 'quantity': 1.0, 'unit_price': 260.0}], False, 'Cash', 1070.0), kwargs={'is_refund': True, 'refund_of_sale_id': 116, 'discount_amount': 85.6}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 536, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-06 18:42:45 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 5 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002D0904EAF90>, None, [{'product_id': 5, 'quantity': 1.0, 'unit_price': 210.0}, {'product_id': 24, 'quantity': 1.0, 'unit_price': 260.0}], False, 'Cash', 1070.0), kwargs={'is_refund': True, 'refund_of_sale_id': 116, 'discount_amount': 85.6}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 536, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-06 18:42:46 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 5 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002D0904EAF90>, None, [{'product_id': 5, 'quantity': 1.0, 'unit_price': 210.0}, {'product_id': 24, 'quantity': 1.0, 'unit_price': 260.0}], False, 'Cash', 1070.0), kwargs={'is_refund': True, 'refund_of_sale_id': 116, 'discount_amount': 85.6}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 536, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-06 18:42:46 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 5 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002D0904EAF90>, None, [{'product_id': 5, 'quantity': 1.0, 'unit_price': 210.0}, {'product_id': 24, 'quantity': 1.0, 'unit_price': 260.0}], False, 'Cash', 1070.0), kwargs={'is_refund': True, 'refund_of_sale_id': 116, 'discount_amount': 85.6}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 536, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-06 18:42:46 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 5 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002D0904EAF90>, None, [{'product_id': 5, 'quantity': 1.0, 'unit_price': 210.0}, {'product_id': 24, 'quantity': 1.0, 'unit_price': 260.0}], False, 'Cash', 1070.0), kwargs={'is_refund': True, 'refund_of_sale_id': 116, 'discount_amount': 85.6}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 536, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-06 18:42:46 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 5 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002D0904EAF90>, None, [{'product_id': 5, 'quantity': 1.0, 'unit_price': 210.0}, {'product_id': 24, 'quantity': 1.0, 'unit_price': 260.0}], False, 'Cash', 1070.0), kwargs={'is_refund': True, 'refund_of_sale_id': 116, 'discount_amount': 85.6}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 536, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-06 18:42:47 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 5 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002D0904EAF90>, None, [{'product_id': 5, 'quantity': 1.0, 'unit_price': 210.0}, {'product_id': 24, 'quantity': 1.0, 'unit_price': 260.0}], False, 'Cash', 1070.0), kwargs={'is_refund': True, 'refund_of_sale_id': 116, 'discount_amount': 85.6}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 536, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-06 18:42:47 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 5 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002D0904EAF90>, None, [{'product_id': 5, 'quantity': 1.0, 'unit_price': 210.0}, {'product_id': 24, 'quantity': 1.0, 'unit_price': 260.0}], False, 'Cash', 1070.0), kwargs={'is_refund': True, 'refund_of_sale_id': 116, 'discount_amount': 85.6}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 536, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-06 18:42:47 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 5 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002D0904EAF90>, None, [{'product_id': 5, 'quantity': 1.0, 'unit_price': 210.0}, {'product_id': 24, 'quantity': 1.0, 'unit_price': 260.0}], False, 'Cash', 1070.0), kwargs={'is_refund': True, 'refund_of_sale_id': 116, 'discount_amount': 85.6}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 536, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-06 18:42:47 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 5 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002D0904EAF90>, None, [{'product_id': 5, 'quantity': 1.0, 'unit_price': 210.0}, {'product_id': 24, 'quantity': 1.0, 'unit_price': 260.0}], False, 'Cash', 1070.0), kwargs={'is_refund': True, 'refund_of_sale_id': 116, 'discount_amount': 85.6}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 536, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-06 18:42:47 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 5 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002D0904EAF90>, None, [{'product_id': 5, 'quantity': 1.0, 'unit_price': 210.0}, {'product_id': 24, 'quantity': 1.0, 'unit_price': 260.0}], False, 'Cash', 1070.0), kwargs={'is_refund': True, 'refund_of_sale_id': 116, 'discount_amount': 85.6}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 536, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-06 19:02:41 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-06 20:04:09 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-06 20:04:49 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 51 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002032B3AAF90>, None, [{'product_id': 51, 'quantity': 1.0, 'unit_price': 695.0}], False, 'Cash', 3340.0), kwargs={'is_refund': True, 'refund_of_sale_id': 500, 'discount_amount': 0.0}
+Traceback:
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 536, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-08 15:55:02 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 15:55:31 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: PARAMOUNT LED BULB E27 12W only has 0 available (requested 1.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001EDEB656E40>, None, [{'product_id': 703, 'quantity': 1, 'unit_price': 130.0}], False, 'Cash', 130.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 0.0}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 551, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-08 16:00:26 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 16:12:10 ===
+Location: pos_app.controllers.safe_business_controller.update_stock
+Type: ValueError
+Message: Stock update failed: Insufficient stock. Available: -2.0, Requested: 1.0
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001FEECF56E40>, 299, 1, 'OUT'), kwargs={}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 14, in update_stock
+    return super().update_stock(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 293, in update_stock
+    raise ValueError(f"Stock update failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-08 16:12:10 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock update failed: Insufficient stock. Available: -2.0, Requested: 1.0
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001FEECF56E40>, None, [{'product_id': 299, 'quantity': 1, 'unit_price': 1900.0}], False, 'Cash', 1900.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 0.0}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 551, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-08 16:24:38 ===
+Location: pos_app.controllers.safe_business_controller.update_stock
+Type: ValueError
+Message: Stock update failed: Insufficient stock. Available: -2.0, Requested: 1.0
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001FEECF56E40>, 299, 1, 'OUT'), kwargs={}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 14, in update_stock
+    return super().update_stock(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 293, in update_stock
+    raise ValueError(f"Stock update failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-08 16:24:38 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock update failed: Insufficient stock. Available: -2.0, Requested: 1.0
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001FEECF56E40>, None, [{'product_id': 299, 'quantity': 1, 'unit_price': 1900.0}], False, 'Cash', 1900.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 0.0}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 551, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-08 16:41:28 ===
+Location: pos_app.controllers.safe_business_controller.update_stock
+Type: ValueError
+Message: Stock update failed: Insufficient stock. Available: -3.0, Requested: 1.0
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001FEECF56E40>, 299, 1, 'OUT'), kwargs={}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 14, in update_stock
+    return super().update_stock(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 293, in update_stock
+    raise ValueError(f"Stock update failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-08 16:41:28 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock update failed: Insufficient stock. Available: -3.0, Requested: 1.0
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001FEECF56E40>, None, [{'product_id': 299, 'quantity': 1, 'unit_price': 1900.0}], False, 'Cash', 1900.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 0.0}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 551, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-08 16:41:29 ===
+Location: pos_app.controllers.safe_business_controller.update_stock
+Type: ValueError
+Message: Stock update failed: Insufficient stock. Available: -3.0, Requested: 1.0
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001FEECF56E40>, 299, 1, 'OUT'), kwargs={}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 14, in update_stock
+    return super().update_stock(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 293, in update_stock
+    raise ValueError(f"Stock update failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-08 16:41:29 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock update failed: Insufficient stock. Available: -3.0, Requested: 1.0
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001FEECF56E40>, None, [{'product_id': 299, 'quantity': 1, 'unit_price': 1900.0}], False, 'Cash', 1900.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 0.0}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 551, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-08 16:44:46 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 17:05:20 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 17:21:28 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 18:16:44 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 18:22:43 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 18:40:18 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 18:51:52 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 19:03:17 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 19:11:24 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 19:15:28 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 19:59:27 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 20:02:13 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 4 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000213037BEF90>, None, [{'product_id': 4, 'quantity': 2.0, 'unit_price': 1300.0}, {'product_id': 25, 'quantity': 1.0, 'unit_price': 250.0}], False, 'Cash', 2999.16), kwargs={'is_refund': True, 'refund_of_sale_id': 138, 'discount_amount': 73.0}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 566, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-08 20:09:47 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 20:10:24 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 6 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000222B610EF90>, None, [{'product_id': 4, 'quantity': 1.0, 'unit_price': 1300.0}, {'product_id': 6, 'quantity': 1.0, 'unit_price': 230.0}], False, 'Cash', 1652.4), kwargs={'is_refund': True, 'refund_of_sale_id': 140, 'discount_amount': 0.0}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 566, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-08 20:40:52 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 20:57:23 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 21:05:31 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 21:13:47 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 21:14:10 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: PARROT THERMAL AIR PORT 3.0L only has 0.0 available (requested 1.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000019883FFEF90>, None, [{'product_id': 171, 'quantity': 1, 'unit_price': 5300.0}], False, 'Cash', 0.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 0.0}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 566, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-08 21:14:26 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 51 can refund up to 1.0, requested 2.0.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000019883FFEF90>, None, [{'product_id': 51, 'quantity': 2.0, 'unit_price': 695.0}, {'product_id': 14, 'quantity': 2.0, 'unit_price': 280.0}, {'product_id': 4, 'quantity': 1.0, 'unit_price': 1150.0}, {'product_id': 106, 'quantity': 1.0, 'unit_price': 240.0}], False, 'Cash', 0.0), kwargs={'is_refund': True, 'refund_of_sale_id': 151, 'discount_amount': 0.0}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 566, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-08 21:20:04 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 21:26:13 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-08 21:27:50 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-14 15:41:17 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-14 15:43:17 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Product ID 251 has no refundable quantity remaining.
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000018FE0C730E0>, None, [{'product_id': 251, 'quantity': 1.0, 'unit_price': 300.0}], False, 'Cash', 300.0), kwargs={'is_refund': True, 'refund_of_sale_id': 191, 'discount_amount': 0.0}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\business_logic.py", line 576, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-14 16:07:43 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-14 16:16:41 ===
+Location: pos_app.controllers.safe_business_controller.create_purchase
+Type: AttributeError
+Message: 'super' object has no attribute 'create_purchase'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000022406CDEF90>, 56, [{'product_id': 777, 'quantity': 29, 'unit_cost': 600.0}]), kwargs={}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 14, in create_purchase
+    return super().create_purchase(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+
+
+=== CRASH @ 2026-01-14 16:17:00 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-14 16:17:41 ===
+Location: pos_app.controllers.safe_business_controller.create_purchase
+Type: AttributeError
+Message: 'super' object has no attribute 'create_purchase'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002A095BFF0E0>, 56, [{'product_id': 777, 'quantity': 29, 'unit_cost': 600.0}]), kwargs={}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 14, in create_purchase
+    return super().create_purchase(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+
+
+=== CRASH @ 2026-01-14 16:22:12 ===
+Location: pos_app.controllers.safe_business_controller.create_purchase
+Type: AttributeError
+Message: 'super' object has no attribute 'create_purchase'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002A095BFF0E0>, 64, [{'product_id': 809, 'quantity': 1, 'unit_cost': 520.0}]), kwargs={}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 14, in create_purchase
+    return super().create_purchase(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+
+
+=== CRASH @ 2026-01-14 17:02:36 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-14 18:39:10 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-14 18:54:39 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-14 18:55:38 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-17 16:53:16 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-17 16:55:08 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-17 16:56:42 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-17 16:58:19 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-17 17:46:25 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-17 17:52:26 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-17 17:59:35 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-17 18:15:40 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-17 18:21:22 ===
+Location: pos_app.controllers.safe_business_controller.update_stock
+Type: TypeError
+Message: BusinessController.update_stock() got an unexpected keyword argument 'location'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000022B36A7F0E0>, 195, 2.0, 'IN', 'Purchase #None Received'), kwargs={'location': <InventoryLocation.WAREHOUSE: 'WAREHOUSE'>, 'commit': False}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 18, in update_stock
+    return super().update_stock(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+
+
+=== CRASH @ 2026-01-17 18:21:22 ===
+Location: pos_app.controllers.safe_business_controller.update_stock
+Type: TypeError
+Message: BusinessController.update_stock() got multiple values for argument 'commit'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000022B36A7F0E0>, 195, 2.0, 'IN', 'Purchase #None Received'), kwargs={'commit': False}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 18, in update_stock
+    return super().update_stock(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+
+
+=== CRASH @ 2026-01-17 18:21:37 ===
+Location: pos_app.controllers.safe_business_controller.update_stock
+Type: TypeError
+Message: BusinessController.update_stock() got an unexpected keyword argument 'location'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000022B36A7F0E0>, 195, 2.0, 'IN', 'Purchase #None Received'), kwargs={'location': <InventoryLocation.WAREHOUSE: 'WAREHOUSE'>, 'commit': False}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 18, in update_stock
+    return super().update_stock(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+
+
+=== CRASH @ 2026-01-17 18:21:37 ===
+Location: pos_app.controllers.safe_business_controller.update_stock
+Type: TypeError
+Message: BusinessController.update_stock() got multiple values for argument 'commit'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000022B36A7F0E0>, 195, 2.0, 'IN', 'Purchase #None Received'), kwargs={'commit': False}
+Traceback:
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\controllers\safe_business_controller.py", line 18, in update_stock
+    return super().update_stock(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+
+
+=== CRASH @ 2026-01-17 18:26:58 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-17 18:35:08 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-17 18:36:48 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-17 18:41:39 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-17 18:46:26 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-17 18:59:49 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-18 16:55:17 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-18 17:33:22 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-24 19:34:47 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-24 19:51:21 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-26 15:35:37 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-26 16:02:26 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-26 16:25:52 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-26 16:45:49 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: Stock validation failed: DUMY PRODUCTS 2 only has 0.0 total available (requested 1.0)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000020FA41670E0>, None, [{'product_id': 749, 'quantity': 1, 'unit_price': 200.0}], False, 'Cash', 0.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 0.0}
+Traceback:
+  File "F:\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\pos_app\controllers\business_logic.py", line 594, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-26 17:12:52 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-26 18:50:40 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-26 19:28:34 ===
+Location: app_start
+Type: Exception
+Message: Application started
+Traceback:
+
+
+=== CRASH @ 2026-01-27 17:18:56 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: TypeError
+Message: BusinessController.create_sale() got an unexpected keyword argument 'amount_paid'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002A0AECF6E40>,), kwargs={'customer_id': 38, 'items': [{'product_id': 1801, 'quantity': Decimal('2.00'), 'unit_price': Decimal('100.00')}], 'amount_paid': Decimal('200.00'), 'payment_method': 'Cash'}
+Traceback:
+  File "F:\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+
+
+=== CRASH @ 2026-01-27 17:19:51 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: unsupported operand type(s) for -: 'decimal.Decimal' and 'float'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001E2741D6E40>,), kwargs={'customer_id': 38, 'items': [{'product_id': 1803, 'quantity': Decimal('2.00'), 'unit_price': Decimal('100.00')}], 'paid_amount': Decimal('200.00'), 'payment_method': 'Cash'}
+Traceback:
+  File "F:\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\pos_app\controllers\business_logic.py", line 1094, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-27 17:21:10 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Sale creation failed: unsupported operand type(s) for -: 'decimal.Decimal' and 'float'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000021441042CF0>,), kwargs={'customer_id': 38, 'items': [{'product_id': 1805, 'quantity': Decimal('2.00'), 'unit_price': Decimal('100.00')}], 'paid_amount': Decimal('200.00'), 'payment_method': 'Cash'}
+Traceback:
+  File "F:\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "F:\pos_app\controllers\business_logic.py", line 1101, in create_sale
+    raise ValueError(f"Sale creation failed: {str(e)}")
+
+
+=== CRASH @ 2026-01-28 16:18:23 ===
+Location: pos_app.controllers.safe_business_controller.list_suppliers
+Type: AttributeError
+Message: 'super' object has no attribute 'list_suppliers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000020FFEA9D570>,), kwargs={}
+Traceback:
+  File "F:\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\pos_app\controllers\safe_business_controller.py", line 30, in list_suppliers
+    return super().list_suppliers(*args, **kwargs)
+
+
+=== CRASH @ 2026-01-28 16:18:37 ===
+Location: pos_app.controllers.safe_business_controller.list_expenses
+Type: AttributeError
+Message: 'super' object has no attribute 'list_expenses'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000020FFEA9D570>, datetime.date(2025, 12, 28), datetime.date(2026, 1, 28)), kwargs={}
+Traceback:
+  File "F:\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\pos_app\controllers\safe_business_controller.py", line 38, in list_expenses
+    return super().list_expenses(*args, **kwargs)
+
+
+=== CRASH @ 2026-01-28 16:18:37 ===
+Location: pos_app.controllers.safe_business_controller.list_recurring_expenses
+Type: AttributeError
+Message: 'super' object has no attribute 'list_recurring_expenses'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000020FFEA9D570>,), kwargs={}
+Traceback:
+  File "F:\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\pos_app\controllers\safe_business_controller.py", line 46, in list_recurring_expenses
+    return super().list_recurring_expenses(*args, **kwargs)
+
+
+=== CRASH @ 2026-01-28 16:21:22 ===
+Location: pos_app.controllers.safe_business_controller.list_expenses
+Type: TypeError
+Message: BusinessController.list_expenses() takes 1 positional argument but 3 were given
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000025E1D58D570>, datetime.date(2025, 12, 28), datetime.date(2026, 1, 28)), kwargs={}
+Traceback:
+  File "F:\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\pos_app\controllers\safe_business_controller.py", line 38, in list_expenses
+    return super().list_expenses(*args, **kwargs)
+
+
+=== CRASH @ 2026-01-28 16:23:48 ===
+Location: pos_app.controllers.safe_business_controller.list_expenses
+Type: AttributeError
+Message: type object 'Expense' has no attribute 'date'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000026348AAD570>, datetime.date(2025, 12, 28), datetime.date(2026, 1, 28)), kwargs={}
+Traceback:
+  File "F:\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\pos_app\controllers\safe_business_controller.py", line 38, in list_expenses
+    return super().list_expenses(*args, **kwargs)
+  File "F:\pos_app\controllers\business_logic.py", line 177, in list_expenses
+    query = query.filter(Expense.date >= start_date)
+
+
+=== CRASH @ 2026-01-28 16:50:43 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: TypeError
+Message: 'sale_type' is an invalid keyword argument for Sale
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000141EC6BD570>, 89, [{'product_id': 429, 'quantity': 1, 'unit_price': 2.0}, {'product_id': 749, 'quantity': 1, 'unit_price': 150.0}], False, 'Credit', 0.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 10.0}
+Traceback:
+  File "F:\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+  File "F:\pos_app\controllers\business_logic.py", line 36, in create_sale
+    sale = Sale(
+  File "<string>", line 4, in __init__
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 596, in _initialize_instance
+    with util.safe_reraise():
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 594, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\decl_base.py", line 2179, in _declarative_constructor
+    raise TypeError(
+
+
+=== CRASH @ 2026-01-28 16:55:19 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: IntegrityError
+Message: (psycopg2.errors.NotNullViolation) null value in column "subtotal" of relation "sales" violates not-null constraint
+DETAIL:  Failing row contains (2446, null, 89, null, 0, 10, null, null, 0, 2026-01-28 16:55:19.85018, null, null, f, Credit, null, null, f, null).
+
+[SQL: INSERT INTO sales (invoice_number, customer_id, subtotal, tax_amount, discount_amount, discount_type, total_amount, paid_amount, sale_date, due_date, status, is_wholesale, payment_method, notes, created_by, is_refund, refund_of_sale_id) VALUES (%(invoice_number)s, %(customer_id)s, %(subtotal)s, %(tax_amount)s, %(discount_amount)s, %(discount_type)s, %(total_amount)s, %(paid_amount)s, %(sale_date)s, %(due_date)s, %(status)s, %(is_wholesale)s, %(payment_method)s, %(notes)s, %(created_by)s, %(is_refund)s, %(refund_of_sale_id)s) RETURNING sales.id]
+[parameters: {'invoice_number': None, 'customer_id': 89, 'subtotal': None, 'tax_amount': 0.0, 'discount_amount': Decimal('10.0'), 'discount_type': None, 'total_amount': None, 'paid_amount': Decimal('0'), 'sale_date': datetime.datetime(2026, 1, 28, 16, 55, 19, 850180), 'due_date': None, 'status': None, 'is_wholesale': False, 'payment_method': 'Credit', 'notes': None, 'created_by': None, 'is_refund': False, 'refund_of_sale_id': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001A0AD2FD570>, 89, [{'product_id': 429, 'quantity': 1, 'unit_price': 2.0}, {'product_id': 749, 'quantity': 1, 'unit_price': 150.0}], False, 'Credit', 0.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 10.0}
+Traceback:
+  File "F:\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+  File "F:\pos_app\controllers\business_logic.py", line 47, in create_sale
+    self.session.flush()  # Get sale ID
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\session.py", line 4331, in flush
+    self._flush(objects)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\session.py", line 4466, in _flush
+    with util.safe_reraise():
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\session.py", line 4427, in _flush
+    flush_context.execute()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\persistence.py", line 1233, in _emit_insert_statements
+    result = connection.execute(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\sql\elements.py", line 527, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\engine\base.py", line 1641, in _execute_clauseelement
+    ret = self._execute_context(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\engine\base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\engine\base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\engine\base.py", line 2363, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\engine\base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\engine\default.py", line 952, in do_execute
+    cursor.execute(statement, parameters)
+
+
+=== CRASH @ 2026-01-28 16:57:05 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: KeyError
+Message: 'price'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000021922F3D570>, 89, [{'product_id': 429, 'quantity': 1, 'unit_price': 2.0}, {'product_id': 749, 'quantity': 1, 'unit_price': 150.0}], False, 'Credit', 0.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 0.0}
+Traceback:
+  File "F:\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+  File "F:\pos_app\controllers\business_logic.py", line 39, in create_sale
+    unit_price = Decimal(str(item['price']))
+
+
+=== CRASH @ 2026-01-28 17:14:35 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: TypeError
+Message: unsupported operand type(s) for +=: 'float' and 'decimal.Decimal'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000179258AD570>, 89, [{'product_id': 429, 'quantity': 1, 'unit_price': 2.0}, {'product_id': 749, 'quantity': 1, 'unit_price': 150.0}], True, 'Credit', 0.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 10.0}
+Traceback:
+  File "F:\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+  File "F:\pos_app\controllers\business_logic.py", line 99, in create_sale
+    customer.current_credit += total_amount - d_paid
+
+
+=== CRASH @ 2026-01-28 17:21:18 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: IntegrityError
+Message: (psycopg2.errors.UniqueViolation) duplicate key value violates unique constraint "sales_invoice_number_key"
+DETAIL:  Key (invoice_number)=(1000) already exists.
+
+[SQL: INSERT INTO sales (invoice_number, customer_id, subtotal, tax_amount, discount_amount, discount_type, total_amount, paid_amount, sale_date, due_date, status, is_wholesale, payment_method, notes, created_by, is_refund, refund_of_sale_id) VALUES (%(invoice_number)s, %(customer_id)s, %(subtotal)s, %(tax_amount)s, %(discount_amount)s, %(discount_type)s, %(total_amount)s, %(paid_amount)s, %(sale_date)s, %(due_date)s, %(status)s, %(is_wholesale)s, %(payment_method)s, %(notes)s, %(created_by)s, %(is_refund)s, %(refund_of_sale_id)s) RETURNING sales.id]
+[parameters: {'invoice_number': '1000', 'customer_id': 89, 'subtotal': Decimal('152.0'), 'tax_amount': 0.0, 'discount_amount': Decimal('10.0'), 'discount_type': None, 'total_amount': Decimal('142.0'), 'paid_amount': Decimal('0'), 'sale_date': datetime.datetime(2026, 1, 28, 17, 21, 18, 959221), 'due_date': None, 'status': None, 'is_wholesale': True, 'payment_method': 'Credit', 'notes': None, 'created_by': None, 'is_refund': False, 'refund_of_sale_id': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002032743D570>, 89, [{'product_id': 429, 'quantity': 1, 'unit_price': 2.0}, {'product_id': 749, 'quantity': 1, 'unit_price': 150.0}], True, 'Credit', 0.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 10.0}
+Traceback:
+  File "F:\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "F:\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+  File "F:\pos_app\controllers\business_logic.py", line 63, in create_sale
+    self.session.flush()  # Get sale ID
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\session.py", line 4331, in flush
+    self._flush(objects)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\session.py", line 4466, in _flush
+    with util.safe_reraise():
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\session.py", line 4427, in _flush
+    flush_context.execute()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\persistence.py", line 1233, in _emit_insert_statements
+    result = connection.execute(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\sql\elements.py", line 527, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\engine\base.py", line 1641, in _execute_clauseelement
+    ret = self._execute_context(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\engine\base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\engine\base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\engine\base.py", line 2363, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\engine\base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\engine\default.py", line 952, in do_execute
+    cursor.execute(statement, parameters)
+
+
+=== CRASH @ 2026-01-31 17:36:33 ===
+Location: pos_app.controllers.safe_business_controller.create_purchase
+Type: TypeError
+Message: 'total' is an invalid keyword argument for PurchaseItem
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001B915D85180>, 69, [{'product_id': 429, 'quantity': 1, 'unit_cost': 1.0}]), kwargs={}
+Traceback:
+  File "C:\Users\pc\Music\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Music\pos_app\controllers\safe_business_controller.py", line 14, in create_purchase
+    return super().create_purchase(*args, **kwargs)
+  File "C:\Users\pc\Music\pos_app\controllers\business_logic.py", line 567, in create_purchase
+    purchase_item = PurchaseItem(
+  File "<string>", line 4, in __init__
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 596, in _initialize_instance
+    with util.safe_reraise():
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 594, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\decl_base.py", line 2179, in _declarative_constructor
+    raise TypeError(
+
+
+=== CRASH @ 2026-01-31 17:37:40 ===
+Location: pos_app.controllers.safe_business_controller.create_purchase
+Type: TypeError
+Message: 'total' is an invalid keyword argument for PurchaseItem
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001B915D85180>, 2, [{'product_id': 429, 'quantity': 1, 'unit_cost': 1.0}]), kwargs={}
+Traceback:
+  File "C:\Users\pc\Music\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Music\pos_app\controllers\safe_business_controller.py", line 14, in create_purchase
+    return super().create_purchase(*args, **kwargs)
+  File "C:\Users\pc\Music\pos_app\controllers\business_logic.py", line 567, in create_purchase
+    purchase_item = PurchaseItem(
+  File "<string>", line 4, in __init__
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 596, in _initialize_instance
+    with util.safe_reraise():
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 594, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\decl_base.py", line 2179, in _declarative_constructor
+    raise TypeError(
+
+
+=== CRASH @ 2026-01-31 17:38:46 ===
+Location: pos_app.controllers.safe_business_controller.create_purchase
+Type: TypeError
+Message: 'total' is an invalid keyword argument for PurchaseItem
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001B915D85180>, 69, [{'product_id': 429, 'quantity': 1, 'unit_cost': 1.0}]), kwargs={}
+Traceback:
+  File "C:\Users\pc\Music\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Music\pos_app\controllers\safe_business_controller.py", line 14, in create_purchase
+    return super().create_purchase(*args, **kwargs)
+  File "C:\Users\pc\Music\pos_app\controllers\business_logic.py", line 567, in create_purchase
+    purchase_item = PurchaseItem(
+  File "<string>", line 4, in __init__
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 596, in _initialize_instance
+    with util.safe_reraise():
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 594, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\decl_base.py", line 2179, in _declarative_constructor
+    raise TypeError(
+
+
+=== CRASH @ 2026-01-31 17:59:28 ===
+Location: pos_app.controllers.safe_business_controller.receive_purchase
+Type: TypeError
+Message: unsupported operand type(s) for +=: 'decimal.Decimal' and 'float'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000023A937D5180>, 105, None), kwargs={}
+Traceback:
+  File "C:\Users\pc\Music\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Music\pos_app\controllers\safe_business_controller.py", line 106, in receive_purchase
+    return super().receive_purchase(*args, **kwargs)
+  File "C:\Users\pc\Music\pos_app\controllers\business_logic.py", line 659, in receive_purchase
+    product.stock_level += received_qty
+
+
+=== CRASH @ 2026-01-31 18:05:35 ===
+Location: pos_app.controllers.safe_business_controller.receive_purchase
+Type: TypeError
+Message: unsupported operand type(s) for +: 'decimal.Decimal' and 'float'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000023F7CDB1180>, 105, None), kwargs={}
+Traceback:
+  File "C:\Users\pc\Music\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Music\pos_app\controllers\safe_business_controller.py", line 106, in receive_purchase
+    return super().receive_purchase(*args, **kwargs)
+  File "C:\Users\pc\Music\pos_app\controllers\business_logic.py", line 660, in receive_purchase
+    new_stock = current_stock + received_qty
+
+
+=== CRASH @ 2026-01-31 18:07:33 ===
+Location: pos_app.controllers.safe_business_controller.receive_purchase
+Type: TypeError
+Message: unsupported operand type(s) for +: 'decimal.Decimal' and 'float'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001F6D91A5180>, 105, None), kwargs={}
+Traceback:
+  File "C:\Users\pc\Music\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Music\pos_app\controllers\safe_business_controller.py", line 106, in receive_purchase
+    return super().receive_purchase(*args, **kwargs)
+  File "C:\Users\pc\Music\pos_app\controllers\business_logic.py", line 660, in receive_purchase
+    new_stock = current_stock + received_qty
+
+
+=== CRASH @ 2026-01-31 18:07:40 ===
+Location: pos_app.controllers.safe_business_controller.receive_purchase
+Type: TypeError
+Message: unsupported operand type(s) for +: 'decimal.Decimal' and 'float'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001F6D91A5180>, 106, None), kwargs={}
+Traceback:
+  File "C:\Users\pc\Music\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Music\pos_app\controllers\safe_business_controller.py", line 106, in receive_purchase
+    return super().receive_purchase(*args, **kwargs)
+  File "C:\Users\pc\Music\pos_app\controllers\business_logic.py", line 660, in receive_purchase
+    new_stock = current_stock + received_qty
+
+
+=== CRASH @ 2026-01-31 18:10:54 ===
+Location: pos_app.controllers.safe_business_controller.receive_purchase
+Type: TypeError
+Message: unsupported operand type(s) for +: 'decimal.Decimal' and 'float'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000022714E45180>, 106, None), kwargs={}
+Traceback:
+  File "C:\Users\pc\Music\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Music\pos_app\controllers\safe_business_controller.py", line 106, in receive_purchase
+    return super().receive_purchase(*args, **kwargs)
+  File "C:\Users\pc\Music\pos_app\controllers\business_logic.py", line 666, in receive_purchase
+    new_stock = current_stock + received_qty
+
+
+=== CRASH @ 2026-02-07 11:03:03 ===
+Location: pos_app.controllers.safe_business_controller.add_customer
+Type: TypeError
+Message: 'phone' is an invalid keyword argument for Customer
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000029D35FE5150>,), kwargs={'name': 'rt', 'type': 'RETAIL', 'contact': '', 'email': '', 'address': '', 'credit_limit': 14.0}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in add_customer
+    return super().add_customer(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 456, in add_customer
+    customer = Customer(
+  File "<string>", line 4, in __init__
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 596, in _initialize_instance
+    with util.safe_reraise():
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 594, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\decl_base.py", line 2179, in _declarative_constructor
+    raise TypeError(
+
+
+=== CRASH @ 2026-02-07 11:03:09 ===
+Location: pos_app.controllers.safe_business_controller.add_supplier
+Type: TypeError
+Message: 'phone' is an invalid keyword argument for Supplier
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000029D35FE5150>,), kwargs={'name': 'rt', 'contact': '', 'email': '', 'address': ''}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 34, in add_supplier
+    return super().add_supplier(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 393, in add_supplier
+    supplier = Supplier(
+  File "<string>", line 4, in __init__
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 596, in _initialize_instance
+    with util.safe_reraise():
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 594, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\decl_base.py", line 2179, in _declarative_constructor
+    raise TypeError(
+
+
+=== CRASH @ 2026-02-10 17:35:29 ===
+Location: pos_app.controllers.safe_business_controller.record_purchase_payment
+Type: TypeError
+Message: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001D16FDA8730>,), kwargs={'purchase_id': 51, 'supplier_id': 69, 'amount': 9.0, 'payment_method': 'CASH', 'reference': '', 'notes': '', 'payment_date': datetime.date(2026, 2, 10)}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 102, in record_purchase_payment
+    return super().record_purchase_payment(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 624, in record_purchase_payment
+    new_total_paid = current_paid + amount_decimal
+
+
+=== CRASH @ 2026-02-10 17:35:30 ===
+Location: pos_app.controllers.safe_business_controller.record_purchase_payment
+Type: TypeError
+Message: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001D16FDA8730>,), kwargs={'purchase_id': 72, 'supplier_id': 69, 'amount': 9.0, 'payment_method': 'CASH', 'reference': '', 'notes': '', 'payment_date': datetime.date(2026, 2, 10)}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 102, in record_purchase_payment
+    return super().record_purchase_payment(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 624, in record_purchase_payment
+    new_total_paid = current_paid + amount_decimal
+
+
+=== CRASH @ 2026-02-10 17:35:30 ===
+Location: pos_app.controllers.safe_business_controller.record_purchase_payment
+Type: TypeError
+Message: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001D16FDA8730>,), kwargs={'purchase_id': 74, 'supplier_id': 69, 'amount': 9.0, 'payment_method': 'CASH', 'reference': '', 'notes': '', 'payment_date': datetime.date(2026, 2, 10)}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 102, in record_purchase_payment
+    return super().record_purchase_payment(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 624, in record_purchase_payment
+    new_total_paid = current_paid + amount_decimal
+
+
+=== CRASH @ 2026-02-10 17:35:30 ===
+Location: pos_app.controllers.safe_business_controller.record_purchase_payment
+Type: TypeError
+Message: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001D16FDA8730>,), kwargs={'purchase_id': 89, 'supplier_id': 69, 'amount': 9.0, 'payment_method': 'CASH', 'reference': '', 'notes': '', 'payment_date': datetime.date(2026, 2, 10)}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 102, in record_purchase_payment
+    return super().record_purchase_payment(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 624, in record_purchase_payment
+    new_total_paid = current_paid + amount_decimal
+
+
+=== CRASH @ 2026-02-10 17:35:30 ===
+Location: pos_app.controllers.safe_business_controller.record_purchase_payment
+Type: TypeError
+Message: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001D16FDA8730>,), kwargs={'purchase_id': 136, 'supplier_id': 69, 'amount': 9.0, 'payment_method': 'CASH', 'reference': '', 'notes': '', 'payment_date': datetime.date(2026, 2, 10)}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 102, in record_purchase_payment
+    return super().record_purchase_payment(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 624, in record_purchase_payment
+    new_total_paid = current_paid + amount_decimal
+
+
+=== CRASH @ 2026-02-10 17:43:23 ===
+Location: pos_app.controllers.safe_business_controller.record_purchase_payment
+Type: TypeError
+Message: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000022862E28730>,), kwargs={'purchase_id': 11, 'supplier_id': 1, 'amount': 5.0, 'payment_method': 'CASH', 'reference': '', 'notes': '', 'payment_date': datetime.date(2026, 2, 10)}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 102, in record_purchase_payment
+    return super().record_purchase_payment(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 624, in record_purchase_payment
+    new_total_paid = current_paid + amount_decimal
+
+
+=== CRASH @ 2026-02-10 17:43:39 ===
+Location: pos_app.controllers.safe_business_controller.record_purchase_payment
+Type: TypeError
+Message: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000022862E28730>,), kwargs={'purchase_id': 11, 'supplier_id': 1, 'amount': 6375.0, 'payment_method': 'CASH', 'reference': '', 'notes': '', 'payment_date': datetime.date(2026, 2, 10)}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 102, in record_purchase_payment
+    return super().record_purchase_payment(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 624, in record_purchase_payment
+    new_total_paid = current_paid + amount_decimal
+
+
+=== CRASH @ 2026-02-10 17:46:54 ===
+Location: pos_app.controllers.safe_business_controller.record_purchase_payment
+Type: TypeError
+Message: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000242DCDD4730>,), kwargs={'purchase_id': 11, 'supplier_id': 1, 'amount': 75.0, 'payment_method': 'CASH', 'reference': '', 'notes': '', 'payment_date': datetime.date(2026, 2, 10)}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 102, in record_purchase_payment
+    return super().record_purchase_payment(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 624, in record_purchase_payment
+    new_total_paid = current_paid + amount_decimal
+
+
+=== CRASH @ 2026-02-10 17:53:31 ===
+Location: pos_app.controllers.safe_business_controller.record_purchase_payment
+Type: TypeError
+Message: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002D1E6B20760>,), kwargs={'purchase_id': 11, 'supplier_id': 1, 'amount': 75.0, 'payment_method': 'CASH', 'reference': '', 'notes': '', 'payment_date': datetime.date(2026, 2, 10)}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 102, in record_purchase_payment
+    return super().record_purchase_payment(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 624, in record_purchase_payment
+    new_total_paid = current_paid + amount_decimal
+
+
+=== CRASH @ 2026-02-10 17:58:28 ===
+Location: pos_app.controllers.safe_business_controller.record_purchase_payment
+Type: TypeError
+Message: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001CE894F8730>,), kwargs={'purchase_id': 11, 'supplier_id': 1, 'amount': Decimal('5.0'), 'payment_method': 'CASH', 'reference': '', 'notes': '', 'payment_date': datetime.date(2026, 2, 10)}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 102, in record_purchase_payment
+    return super().record_purchase_payment(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 624, in record_purchase_payment
+    new_total_paid = current_paid + amount_decimal
+
+
+=== CRASH @ 2026-02-10 18:02:15 ===
+Location: pos_app.controllers.safe_business_controller.record_purchase_payment
+Type: TypeError
+Message: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001DDCEE1C730>,), kwargs={'purchase_id': 11, 'supplier_id': 1, 'amount': Decimal('5.0'), 'payment_method': 'CASH', 'reference': '', 'notes': '', 'payment_date': datetime.date(2026, 2, 10)}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 102, in record_purchase_payment
+    return super().record_purchase_payment(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 624, in record_purchase_payment
+    new_total_paid = current_paid + amount_decimal
+
+
+=== CRASH @ 2026-02-10 18:06:39 ===
+Location: pos_app.controllers.safe_business_controller.record_purchase_payment
+Type: UnboundLocalError
+Message: local variable 'Decimal' referenced before assignment
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002035995C730>,), kwargs={'purchase_id': 11, 'supplier_id': 1, 'amount': Decimal('5.0'), 'payment_method': 'CASH', 'reference': '', 'notes': '', 'payment_date': datetime.date(2026, 2, 10)}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 102, in record_purchase_payment
+    return super().record_purchase_payment(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 614, in record_purchase_payment
+    amount=Decimal(str(amount)),
+
+
+=== CRASH @ 2026-02-10 18:10:20 ===
+Location: pos_app.controllers.safe_business_controller.record_purchase_payment
+Type: UnboundLocalError
+Message: local variable 'Decimal' referenced before assignment
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001D6C16A8730>,), kwargs={'purchase_id': 11, 'supplier_id': 1, 'amount': Decimal('5.0'), 'payment_method': 'CASH', 'reference': '', 'notes': '', 'payment_date': datetime.date(2026, 2, 10)}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 102, in record_purchase_payment
+    return super().record_purchase_payment(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 614, in record_purchase_payment
+    amount=Decimal(str(amount)),
+
+
+=== CRASH @ 2026-02-12 16:54:20 ===
+Location: pos_app.controllers.safe_business_controller.record_expense
+Type: AttributeError
+Message: 'super' object has no attribute 'record_expense'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000017D6DE8C730>, 'a', 1.0, None), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 42, in record_expense
+    return super().record_expense(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-12 16:54:27 ===
+Location: pos_app.controllers.safe_business_controller.create_recurring_expense
+Type: TypeError
+Message: 'title' is an invalid keyword argument for ExpenseSchedule
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000017D6DE8C730>, 'a', 0.0, 'a', 'Daily', datetime.date(2026, 2, 12), datetime.date(2027, 2, 12), True), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 134, in create_recurring_expense
+    return super().create_recurring_expense(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 731, in create_recurring_expense
+    recurring = ExpenseSchedule(
+  File "<string>", line 4, in __init__
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 596, in _initialize_instance
+    with util.safe_reraise():
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 594, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\decl_base.py", line 2179, in _declarative_constructor
+    raise TypeError(
+
+
+=== CRASH @ 2026-02-12 16:54:33 ===
+Location: pos_app.controllers.safe_business_controller.export_expenses_csv
+Type: AttributeError
+Message: 'Expense' object has no attribute 'description'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000017D6DE8C730>, datetime.date(2026, 1, 12), datetime.date(2026, 2, 9)), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 146, in export_expenses_csv
+    return super().export_expenses_csv(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 914, in export_expenses_csv
+    'Description': expense.description or '',
+
+
+=== CRASH @ 2026-02-12 16:58:21 ===
+Location: pos_app.controllers.safe_business_controller.record_expense
+Type: AttributeError
+Message: 'super' object has no attribute 'record_expense'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001B671384730>, 'a', 1.0, None), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 42, in record_expense
+    return super().record_expense(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-12 16:58:26 ===
+Location: pos_app.controllers.safe_business_controller.create_recurring_expense
+Type: TypeError
+Message: 'title' is an invalid keyword argument for ExpenseSchedule
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001B671384730>, 'a', 0.0, None, 'Daily', datetime.date(2026, 2, 12), datetime.date(2027, 2, 12), True), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 134, in create_recurring_expense
+    return super().create_recurring_expense(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 731, in create_recurring_expense
+    recurring = ExpenseSchedule(
+  File "<string>", line 4, in __init__
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 596, in _initialize_instance
+    with util.safe_reraise():
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 594, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\decl_base.py", line 2179, in _declarative_constructor
+    raise TypeError(
+
+
+=== CRASH @ 2026-02-12 16:58:29 ===
+Location: pos_app.controllers.safe_business_controller.create_recurring_expense
+Type: TypeError
+Message: 'title' is an invalid keyword argument for ExpenseSchedule
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001B671384730>, 'a', 1.0, None, 'Daily', datetime.date(2026, 2, 12), datetime.date(2027, 2, 12), True), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 134, in create_recurring_expense
+    return super().create_recurring_expense(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 731, in create_recurring_expense
+    recurring = ExpenseSchedule(
+  File "<string>", line 4, in __init__
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 596, in _initialize_instance
+    with util.safe_reraise():
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 594, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\decl_base.py", line 2179, in _declarative_constructor
+    raise TypeError(
+
+
+=== CRASH @ 2026-02-12 17:00:23 ===
+Location: pos_app.controllers.safe_business_controller.record_expense
+Type: AttributeError
+Message: 'super' object has no attribute 'record_expense'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000029DA5DF4730>, 'a', 1.0, None), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 42, in record_expense
+    return super().record_expense(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-12 17:00:30 ===
+Location: pos_app.controllers.safe_business_controller.create_recurring_expense
+Type: TypeError
+Message: 'category' is an invalid keyword argument for ExpenseSchedule
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000029DA5DF4730>, 'a', 1.0, None, 'Daily', datetime.date(2026, 2, 12), datetime.date(2027, 2, 12), True), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 134, in create_recurring_expense
+    return super().create_recurring_expense(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 731, in create_recurring_expense
+    recurring = ExpenseSchedule(
+  File "<string>", line 4, in __init__
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 596, in _initialize_instance
+    with util.safe_reraise():
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 594, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\decl_base.py", line 2179, in _declarative_constructor
+    raise TypeError(
+
+
+=== CRASH @ 2026-02-12 17:00:33 ===
+Location: pos_app.controllers.safe_business_controller.create_recurring_expense
+Type: TypeError
+Message: 'category' is an invalid keyword argument for ExpenseSchedule
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000029DA5DF4730>, 'a', 1.0, None, 'Daily', datetime.date(2026, 2, 12), datetime.date(2027, 2, 12), True), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 134, in create_recurring_expense
+    return super().create_recurring_expense(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 731, in create_recurring_expense
+    recurring = ExpenseSchedule(
+  File "<string>", line 4, in __init__
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 596, in _initialize_instance
+    with util.safe_reraise():
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 594, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\decl_base.py", line 2179, in _declarative_constructor
+    raise TypeError(
+
+
+=== CRASH @ 2026-02-12 17:38:29 ===
+Location: pos_app.controllers.safe_business_controller.record_expense
+Type: AttributeError
+Message: 'super' object has no attribute 'record_expense'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000255FE388730>, 'a', 1.0, None), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 42, in record_expense
+    return super().record_expense(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-12 17:47:58 ===
+Location: pos_app.controllers.safe_business_controller.record_expense
+Type: AttributeError
+Message: 'super' object has no attribute 'record_expense'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000021DAB5CC730>, 'a', 1.0, None), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 42, in record_expense
+    return super().record_expense(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-12 17:49:32 ===
+Location: pos_app.controllers.safe_business_controller.record_expense
+Type: AttributeError
+Message: 'super' object has no attribute 'record_expense'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001F890FC4730>, 'a', 1.0, None), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 42, in record_expense
+    return super().record_expense(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-12 22:04:42 ===
+Location: pos_app.controllers.safe_business_controller.process_recurring_expenses
+Type: NameError
+Message: name 'date' is not defined
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002139621C670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 50, in process_recurring_expenses
+    return super().process_recurring_expenses(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 810, in process_recurring_expenses
+    today = date.today()
+
+
+=== CRASH @ 2026-02-14 21:39:25 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'list_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001DFD5D2C670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 74, in list_customers
+    return super().list_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-14 21:41:22 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'list_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001DFD5D2C670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 74, in list_customers
+    return super().list_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 13:25:06 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'list_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001390F978670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 74, in list_customers
+    return super().list_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 13:25:25 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'list_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001390F978670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 74, in list_customers
+    return super().list_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 13:44:23 ===
+Location: pos_app.controllers.safe_business_controller.record_purchase_payment
+Type: TypeError
+Message: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001390F978670>,), kwargs={'purchase_id': 173, 'supplier_id': 83, 'amount': Decimal('35000.0'), 'payment_method': 'CASH', 'reference': '', 'notes': '', 'payment_date': datetime.date(2026, 2, 15)}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 102, in record_purchase_payment
+    return super().record_purchase_payment(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 820, in record_purchase_payment
+    purchase.paid_amount = (purchase.paid_amount or 0.0) + amount
+
+
+=== CRASH @ 2026-02-15 13:44:58 ===
+Location: pos_app.controllers.safe_business_controller.record_purchase_payment
+Type: TypeError
+Message: unsupported operand type(s) for +: 'float' and 'decimal.Decimal'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001390F978670>,), kwargs={'purchase_id': 173, 'supplier_id': 83, 'amount': Decimal('35000.0'), 'payment_method': 'CASH', 'reference': '', 'notes': '', 'payment_date': datetime.date(2026, 2, 15)}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 102, in record_purchase_payment
+    return super().record_purchase_payment(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 820, in record_purchase_payment
+    purchase.paid_amount = (purchase.paid_amount or 0.0) + amount
+
+
+=== CRASH @ 2026-02-15 14:20:45 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'list_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001390F978670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 74, in list_customers
+    return super().list_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 14:31:12 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'list_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001FB1A95C670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 74, in list_customers
+    return super().list_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 14:37:21 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'list_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001A87160C670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 74, in list_customers
+    return super().list_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 14:38:34 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'list_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001A87160C670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 74, in list_customers
+    return super().list_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 14:44:47 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000025D9A288670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 14:45:33 ===
+Location: pos_app.controllers.safe_business_controller.list_standard_expenses
+Type: AttributeError
+Message: 'super' object has no attribute 'list_standard_expenses'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000025D9A288670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 54, in list_standard_expenses
+    return super().list_standard_expenses(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 14:45:41 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000025D9A288670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 15:11:44 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001ECFB7D8670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 15:12:05 ===
+Location: pos_app.controllers.safe_business_controller.list_standard_expenses
+Type: AttributeError
+Message: 'super' object has no attribute 'list_standard_expenses'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001ECFB7D8670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 54, in list_standard_expenses
+    return super().list_standard_expenses(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 15:12:10 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001ECFB7D8670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 15:22:51 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000022BCFD28670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 15:23:34 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000022BCFD28670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 15:28:57 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000012D96138670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 15:29:13 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000012D96138670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 15:31:59 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000017238C9C670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 15:34:39 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000017238C9C670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:34:40 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002175C328670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:34:53 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002175C328670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:41:56 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000021F31198670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:42:12 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000021F31198670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:45:14 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001F9FC3DC670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:46:47 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002768D0CC670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:46:57 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000002768D0CC670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:48:23 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000026287D28670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:48:43 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000026287D28670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:48:43 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001F9FC3DC670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:49:50 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001E57A97C670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:50:26 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001E57A97C670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:51:31 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000286A7718670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:51:45 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000286A7718670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:54:14 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000244CC8A8670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:54:38 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000244CC8A8670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:56:44 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001A63A4D8670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:58:25 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001A63A4D8670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:59:36 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001C7FB20C670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 16:59:55 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x000001C7FB20C670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 17:01:36 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000025EFB2BC670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 17:01:50 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000025EFB2BC670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 17:04:35 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000211C6238670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 17:05:06 ===
+Location: pos_app.controllers.safe_business_controller.list_customers
+Type: AttributeError
+Message: 'super' object has no attribute 'get_customers'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000211C6238670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 78, in list_customers
+    return super().get_customers(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 17:06:54 ===
+Location: pos_app.controllers.safe_business_controller.list_standard_expenses
+Type: AttributeError
+Message: 'super' object has no attribute 'list_standard_expenses'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x00000213934BC670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 54, in list_standard_expenses
+    return super().list_standard_expenses(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 17:09:15 ===
+Location: pos_app.controllers.safe_business_controller.list_standard_expenses
+Type: AttributeError
+Message: 'super' object has no attribute 'list_standard_expenses'
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000025DC4508670>,), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 54, in list_standard_expenses
+    return super().list_standard_expenses(*args, **kwargs)
+
+
+=== CRASH @ 2026-02-15 17:10:52 ===
+Location: pos_app.controllers.safe_business_controller.create_recurring_expense
+Type: TypeError
+Message: 'title' is an invalid keyword argument for ExpenseSchedule
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000025DC4508670>, 'asd', 0.0, '12', 'Daily', datetime.date(2026, 2, 15), datetime.date(2027, 2, 15), True), kwargs={}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 138, in create_recurring_expense
+    return super().create_recurring_expense(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 732, in create_recurring_expense
+    recurring = ExpenseSchedule(
+  File "<string>", line 4, in __init__
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 596, in _initialize_instance
+    with util.safe_reraise():
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\util\langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\state.py", line 594, in _initialize_instance
+    manager.original_init(*mixed[1:], **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\decl_base.py", line 2179, in _declarative_constructor
+    raise TypeError(
+
+
+=== CRASH @ 2026-03-28 17:08:10 ===
+Location: pos_app.controllers.safe_business_controller.create_sale
+Type: ValueError
+Message: Stock issues: Insufficient stock for DUMY PRODUCT: 7.0000 available, 10.0 requested
+Context: args=(<pos_app.controllers.safe_business_controller.SafeBusinessController object at 0x0000025FB5F9C670>, None, [{'product_id': 429, 'quantity': 10.0, 'unit_price': 3.5}], False, 'Cash', 40.0), kwargs={'is_refund': False, 'refund_of_sale_id': None, 'discount_amount': 0.0}
+Traceback:
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 10, in create_sale
+    return super().create_sale(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 38, in create_sale
+    raise ValueError(f"Stock issues: {', '.join(stock_errors)}")
+
