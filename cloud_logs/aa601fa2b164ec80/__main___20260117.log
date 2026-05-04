@@ -1,0 +1,20 @@
+2026-01-17 16:55:50,005 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\views\customer_statement.py", line 913, in print_statement
+    html_content = self._build_statement_html()
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\views\customer_statement.py", line 495, in _build_statement_html
+    data = self._gather_statement_data(start_date, end_date)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\views\customer_statement.py", line 822, in _gather_statement_data
+    print(f"DEBUG: Displayed sale total: {latest_sale_total}")
+                                          ^^^^^^^^^^^^^^^^^
+NameError: name 'latest_sale_total' is not defined
+
+2026-01-17 16:57:06,020 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\views\customer_statement.py", line 912, in print_statement
+    html_content = self._build_statement_html()
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\views\customer_statement.py", line 495, in _build_statement_html
+    data = self._gather_statement_data(start_date, end_date)
+  File "C:\Program Files (x86)\Pos-Offline-main\Pos-Offline-main\Pos-Offline-main\pos_app\views\customer_statement.py", line 827, in _gather_statement_data
+    "total_sales": total_sales,
+                   ^^^^^^^^^^^^
+NameError: name 'latest_sale_total' is not defined
+
