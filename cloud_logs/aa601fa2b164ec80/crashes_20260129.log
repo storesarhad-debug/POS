@@ -1,0 +1,104 @@
+2026-01-29 16:31:45,317 - CrashPrevention - INFO - ================================================================================
+2026-01-29 16:31:45,351 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 16:31:45,368 - CrashPrevention - INFO - ================================================================================
+2026-01-29 16:31:45,506 - CrashPrevention - ERROR - 
+================================================================================
+2026-01-29 16:31:45,525 - CrashPrevention - ERROR - UNCAUGHT EXCEPTION #1
+2026-01-29 16:31:45,575 - CrashPrevention - ERROR - Type: FileNotFoundError
+2026-01-29 16:31:45,614 - CrashPrevention - ERROR - Message: [WinError 3] The system cannot find the path specified: 'f:\\pos_app\\logs'
+2026-01-29 16:31:45,675 - CrashPrevention - ERROR - Traceback:
+Traceback (most recent call last):
+  File "C:\Users\pc\Music\pos_app\Main.py", line 62, in <module>
+    from pos_app.utils.unified_logger import unified_logger
+  File "C:\Users\pc\Music\pos_app\utils\unified_logger.py", line 61, in <module>
+    unified_logger = setup_unified_logging()
+  File "C:\Users\pc\Music\pos_app\utils\unified_logger.py", line 15, in setup_unified_logging
+    log_dir.mkdir(exist_ok=True)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\pathlib.py", line 1175, in mkdir
+    self._accessor.mkdir(self, mode)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'f:\\pos_app\\logs'
+
+2026-01-29 16:31:45,718 - CrashPrevention - ERROR - ================================================================================
+
+2026-01-29 16:32:59,118 - CrashPrevention - INFO - ================================================================================
+2026-01-29 16:32:59,136 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 16:32:59,137 - CrashPrevention - INFO - ================================================================================
+2026-01-29 16:32:59,186 - CrashPrevention - ERROR - 
+================================================================================
+2026-01-29 16:32:59,243 - CrashPrevention - ERROR - UNCAUGHT EXCEPTION #1
+2026-01-29 16:32:59,286 - CrashPrevention - ERROR - Type: FileNotFoundError
+2026-01-29 16:32:59,286 - CrashPrevention - ERROR - Message: [WinError 3] The system cannot find the path specified: 'f:\\pos_app\\logs'
+2026-01-29 16:32:59,290 - CrashPrevention - ERROR - Traceback:
+Traceback (most recent call last):
+  File "C:\Users\pc\Music\pos_app\main.py", line 62, in <module>
+    from pos_app.utils.unified_logger import unified_logger
+  File "C:\Users\pc\Music\pos_app\utils\unified_logger.py", line 61, in <module>
+    unified_logger = setup_unified_logging()
+  File "C:\Users\pc\Music\pos_app\utils\unified_logger.py", line 15, in setup_unified_logging
+    log_dir.mkdir(exist_ok=True)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\pathlib.py", line 1175, in mkdir
+    self._accessor.mkdir(self, mode)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'f:\\pos_app\\logs'
+
+2026-01-29 16:32:59,315 - CrashPrevention - ERROR - ================================================================================
+
+2026-01-29 16:33:43,083 - CrashPrevention - INFO - ================================================================================
+2026-01-29 16:33:43,089 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 16:33:43,090 - CrashPrevention - INFO - ================================================================================
+2026-01-29 16:38:56,528 - CrashPrevention - INFO - ================================================================================
+2026-01-29 16:38:56,561 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 16:38:56,577 - CrashPrevention - INFO - ================================================================================
+2026-01-29 16:39:49,968 - CrashPrevention - INFO - ================================================================================
+2026-01-29 16:39:49,970 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 16:39:49,971 - CrashPrevention - INFO - ================================================================================
+2026-01-29 16:45:37,460 - CrashPrevention - INFO - ================================================================================
+2026-01-29 16:45:37,460 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 16:45:37,460 - CrashPrevention - INFO - ================================================================================
+2026-01-29 16:51:44,250 - CrashPrevention - INFO - ================================================================================
+2026-01-29 16:51:44,265 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 16:51:44,282 - CrashPrevention - INFO - ================================================================================
+2026-01-29 16:53:58,328 - CrashPrevention - INFO - ================================================================================
+2026-01-29 16:53:58,345 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 16:53:58,357 - CrashPrevention - INFO - ================================================================================
+2026-01-29 17:01:41,825 - CrashPrevention - INFO - ================================================================================
+2026-01-29 17:01:41,840 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 17:01:41,872 - CrashPrevention - INFO - ================================================================================
+2026-01-29 17:07:23,196 - CrashPrevention - INFO - ================================================================================
+2026-01-29 17:07:23,207 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 17:07:23,209 - CrashPrevention - INFO - ================================================================================
+2026-01-29 17:16:43,587 - CrashPrevention - INFO - ================================================================================
+2026-01-29 17:16:43,600 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 17:16:43,601 - CrashPrevention - INFO - ================================================================================
+2026-01-29 19:03:12,960 - CrashPrevention - INFO - ================================================================================
+2026-01-29 19:03:12,964 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 19:03:12,964 - CrashPrevention - INFO - ================================================================================
+2026-01-29 19:14:17,642 - CrashPrevention - INFO - ================================================================================
+2026-01-29 19:14:17,665 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 19:14:17,665 - CrashPrevention - INFO - ================================================================================
+2026-01-29 19:29:32,332 - CrashPrevention - INFO - ================================================================================
+2026-01-29 19:29:32,376 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 19:29:32,426 - CrashPrevention - INFO - ================================================================================
+2026-01-29 19:30:26,455 - CrashPrevention - INFO - ================================================================================
+2026-01-29 19:30:26,480 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 19:30:26,480 - CrashPrevention - INFO - ================================================================================
+2026-01-29 20:20:02,692 - CrashPrevention - INFO - ================================================================================
+2026-01-29 20:20:02,713 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 20:20:02,714 - CrashPrevention - INFO - ================================================================================
+2026-01-29 21:07:22,531 - CrashPrevention - INFO - ================================================================================
+2026-01-29 21:07:22,580 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 21:07:22,675 - CrashPrevention - INFO - ================================================================================
+2026-01-29 21:23:35,261 - CrashPrevention - INFO - ================================================================================
+2026-01-29 21:23:35,302 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 21:23:35,339 - CrashPrevention - INFO - ================================================================================
+2026-01-29 21:33:30,221 - CrashPrevention - INFO - ================================================================================
+2026-01-29 21:33:30,278 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 21:33:30,281 - CrashPrevention - INFO - ================================================================================
+2026-01-29 21:36:37,913 - CrashPrevention - INFO - ================================================================================
+2026-01-29 21:36:37,971 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 21:36:38,019 - CrashPrevention - INFO - ================================================================================
+2026-01-29 21:40:30,324 - CrashPrevention - INFO - ================================================================================
+2026-01-29 21:40:30,361 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 21:40:30,362 - CrashPrevention - INFO - ================================================================================
+2026-01-29 21:45:16,624 - CrashPrevention - INFO - ================================================================================
+2026-01-29 21:45:16,667 - CrashPrevention - INFO - Crash Prevention System Initialized
+2026-01-29 21:45:16,719 - CrashPrevention - INFO - ================================================================================
