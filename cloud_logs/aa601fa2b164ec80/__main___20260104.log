@@ -1,0 +1,2625 @@
+2026-01-04 17:08:55,026 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:08:55,663 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\main.py", line 131, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:55,663 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\main.py", line 131, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:55,900 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:55,900 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:55,900 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:56,583 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:08:56,583 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:08:56,583 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:08:56,583 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:08:56,731 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:56,731 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:56,731 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:56,731 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:56,731 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,237 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:08:57,237 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:08:57,237 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:08:57,237 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:08:57,237 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:08:57,297 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,297 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,297 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,297 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,297 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,297 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,297 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,359 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 108, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:08:57,359 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 108, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:08:57,359 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 108, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:08:57,359 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 108, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:08:57,359 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 108, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:08:57,359 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 108, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:08:57,359 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 108, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:08:57,423 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\main.py", line 131, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,423 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\main.py", line 131, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,423 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\main.py", line 131, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,423 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\main.py", line 131, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,423 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\main.py", line 131, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,423 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\main.py", line 131, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,423 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\main.py", line 131, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,423 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\main.py", line 131, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,423 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\main.py", line 131, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,465 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:08:57,465 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:08:57,465 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:08:57,465 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:08:57,465 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:08:57,521 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,521 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,521 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,521 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,521 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,521 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,521 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,521 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,521 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,521 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,521 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:08:57,595 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\main.py", line 131, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:56,394 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:56,796 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+KeyboardInterrupt
+
+2026-01-04 17:09:56,796 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+KeyboardInterrupt
+
+2026-01-04 17:09:57,262 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:09:57,262 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:09:57,262 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:09:57,411 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:09:57,411 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:09:57,411 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:09:57,411 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:09:57,894 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+2026-01-04 17:09:57,894 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+2026-01-04 17:09:57,894 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+2026-01-04 17:09:57,894 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+2026-01-04 17:09:57,894 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+2026-01-04 17:09:57,963 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:57,963 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:57,963 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:57,963 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:57,963 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:57,963 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:58,029 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,029 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,029 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,029 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,029 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,029 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,029 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,089 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,089 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,089 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,089 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,089 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,089 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,195 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:58,195 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:58,195 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:58,195 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:58,195 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:58,195 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:58,195 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:58,195 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:58,263 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:58,263 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:58,263 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:58,263 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:58,263 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:58,328 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+       ^^^^^^^^^^^^
+  File "C:\Users\Musab\AppData\Local\Programs\Python\Python311\Lib\enum.py", line 669, in __call__
+    def __call__(cls, value, names=None, *, module=None, qualname=None, type=None, start=1, boundary=None):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:58,328 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+       ^^^^^^^^^^^^
+  File "C:\Users\Musab\AppData\Local\Programs\Python\Python311\Lib\enum.py", line 669, in __call__
+    def __call__(cls, value, names=None, *, module=None, qualname=None, type=None, start=1, boundary=None):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:58,328 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+       ^^^^^^^^^^^^
+  File "C:\Users\Musab\AppData\Local\Programs\Python\Python311\Lib\enum.py", line 669, in __call__
+    def __call__(cls, value, names=None, *, module=None, qualname=None, type=None, start=1, boundary=None):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:58,328 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+       ^^^^^^^^^^^^
+  File "C:\Users\Musab\AppData\Local\Programs\Python\Python311\Lib\enum.py", line 669, in __call__
+    def __call__(cls, value, names=None, *, module=None, qualname=None, type=None, start=1, boundary=None):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:58,328 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+       ^^^^^^^^^^^^
+  File "C:\Users\Musab\AppData\Local\Programs\Python\Python311\Lib\enum.py", line 669, in __call__
+    def __call__(cls, value, names=None, *, module=None, qualname=None, type=None, start=1, boundary=None):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:58,328 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+       ^^^^^^^^^^^^
+  File "C:\Users\Musab\AppData\Local\Programs\Python\Python311\Lib\enum.py", line 669, in __call__
+    def __call__(cls, value, names=None, *, module=None, qualname=None, type=None, start=1, boundary=None):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:58,328 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+       ^^^^^^^^^^^^
+  File "C:\Users\Musab\AppData\Local\Programs\Python\Python311\Lib\enum.py", line 669, in __call__
+    def __call__(cls, value, names=None, *, module=None, qualname=None, type=None, start=1, boundary=None):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:58,328 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+       ^^^^^^^^^^^^
+  File "C:\Users\Musab\AppData\Local\Programs\Python\Python311\Lib\enum.py", line 669, in __call__
+    def __call__(cls, value, names=None, *, module=None, qualname=None, type=None, start=1, boundary=None):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:58,328 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+       ^^^^^^^^^^^^
+  File "C:\Users\Musab\AppData\Local\Programs\Python\Python311\Lib\enum.py", line 669, in __call__
+    def __call__(cls, value, names=None, *, module=None, qualname=None, type=None, start=1, boundary=None):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:58,328 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+       ^^^^^^^^^^^^
+  File "C:\Users\Musab\AppData\Local\Programs\Python\Python311\Lib\enum.py", line 669, in __call__
+    def __call__(cls, value, names=None, *, module=None, qualname=None, type=None, start=1, boundary=None):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:58,328 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+       ^^^^^^^^^^^^
+  File "C:\Users\Musab\AppData\Local\Programs\Python\Python311\Lib\enum.py", line 669, in __call__
+    def __call__(cls, value, names=None, *, module=None, qualname=None, type=None, start=1, boundary=None):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:58,396 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line -1, in find_spec
+KeyboardInterrupt
+
+2026-01-04 17:09:58,396 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line -1, in find_spec
+KeyboardInterrupt
+
+2026-01-04 17:09:58,396 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line -1, in find_spec
+KeyboardInterrupt
+
+2026-01-04 17:09:58,396 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line -1, in find_spec
+KeyboardInterrupt
+
+2026-01-04 17:09:58,396 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line -1, in find_spec
+KeyboardInterrupt
+
+2026-01-04 17:09:58,396 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line -1, in find_spec
+KeyboardInterrupt
+
+2026-01-04 17:09:58,396 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line -1, in find_spec
+KeyboardInterrupt
+
+2026-01-04 17:09:58,730 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,730 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,730 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,730 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,730 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,730 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,730 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,396 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line -1, in find_spec
+KeyboardInterrupt
+
+2026-01-04 17:09:58,730 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,730 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,730 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,730 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,730 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:58,880 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 170, in __enter__
+  File "<frozen importlib._bootstrap>", line 196, in _get_module_lock
+  File "<frozen importlib._bootstrap>", line 73, in __init__
+KeyboardInterrupt
+
+2026-01-04 17:09:58,880 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 170, in __enter__
+  File "<frozen importlib._bootstrap>", line 196, in _get_module_lock
+  File "<frozen importlib._bootstrap>", line 73, in __init__
+KeyboardInterrupt
+
+2026-01-04 17:09:58,880 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 170, in __enter__
+  File "<frozen importlib._bootstrap>", line 196, in _get_module_lock
+  File "<frozen importlib._bootstrap>", line 73, in __init__
+KeyboardInterrupt
+
+2026-01-04 17:09:58,880 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 170, in __enter__
+  File "<frozen importlib._bootstrap>", line 196, in _get_module_lock
+  File "<frozen importlib._bootstrap>", line 73, in __init__
+KeyboardInterrupt
+
+2026-01-04 17:09:58,880 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 170, in __enter__
+  File "<frozen importlib._bootstrap>", line 196, in _get_module_lock
+  File "<frozen importlib._bootstrap>", line 73, in __init__
+KeyboardInterrupt
+
+2026-01-04 17:09:58,980 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:58,980 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:58,980 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:58,980 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:59,047 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,047 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,047 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,047 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,153 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:59,153 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:59,153 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:59,153 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:59,153 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:59,153 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:59,153 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3277, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:59,252 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,252 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,341 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,341 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,341 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,341 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,341 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,341 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,404 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 170, in __enter__
+  File "<frozen importlib._bootstrap>", line 179, in _get_module_lock
+KeyboardInterrupt
+
+2026-01-04 17:09:59,404 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 170, in __enter__
+  File "<frozen importlib._bootstrap>", line 179, in _get_module_lock
+KeyboardInterrupt
+
+2026-01-04 17:09:59,404 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 170, in __enter__
+  File "<frozen importlib._bootstrap>", line 179, in _get_module_lock
+KeyboardInterrupt
+
+2026-01-04 17:09:59,404 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 170, in __enter__
+  File "<frozen importlib._bootstrap>", line 179, in _get_module_lock
+KeyboardInterrupt
+
+2026-01-04 17:09:59,404 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 170, in __enter__
+  File "<frozen importlib._bootstrap>", line 179, in _get_module_lock
+KeyboardInterrupt
+
+2026-01-04 17:09:59,404 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 170, in __enter__
+  File "<frozen importlib._bootstrap>", line 179, in _get_module_lock
+KeyboardInterrupt
+
+2026-01-04 17:09:59,404 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 170, in __enter__
+  File "<frozen importlib._bootstrap>", line 179, in _get_module_lock
+KeyboardInterrupt
+
+2026-01-04 17:09:59,404 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 170, in __enter__
+  File "<frozen importlib._bootstrap>", line 179, in _get_module_lock
+KeyboardInterrupt
+
+2026-01-04 17:09:59,484 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\main.py", line 131, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:59,484 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\main.py", line 131, in eventFilter
+    def eventFilter(self, obj, event):
+    
+KeyboardInterrupt
+
+2026-01-04 17:09:59,536 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,536 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,536 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,536 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,536 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,536 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,647 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 165, in __init__
+KeyboardInterrupt
+
+2026-01-04 17:09:59,647 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 165, in __init__
+KeyboardInterrupt
+
+2026-01-04 17:09:59,647 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 165, in __init__
+KeyboardInterrupt
+
+2026-01-04 17:09:59,647 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 165, in __init__
+KeyboardInterrupt
+
+2026-01-04 17:09:59,647 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 165, in __init__
+KeyboardInterrupt
+
+2026-01-04 17:09:59,647 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 165, in __init__
+KeyboardInterrupt
+
+2026-01-04 17:09:59,647 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 165, in __init__
+KeyboardInterrupt
+
+2026-01-04 17:09:59,647 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 165, in __init__
+KeyboardInterrupt
+
+2026-01-04 17:09:59,647 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 165, in __init__
+KeyboardInterrupt
+
+2026-01-04 17:09:59,647 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 165, in __init__
+KeyboardInterrupt
+
+2026-01-04 17:09:59,647 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 165, in __init__
+KeyboardInterrupt
+
+2026-01-04 17:09:59,647 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1175, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 165, in __init__
+KeyboardInterrupt
+
+2026-01-04 17:09:59,699 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:09:59,699 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:09:59,699 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:09:59,699 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:09:59,699 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:09:59,699 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:09:59,699 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:09:59,699 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:09:59,780 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 96, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:59,780 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 96, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:59,780 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 96, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:59,780 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 96, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:09:59,831 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,831 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,831 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,831 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,831 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,831 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,831 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,831 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:09:59,898 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1643, in find_spec
+  File "<frozen importlib._bootstrap>", line 244, in _verbose_message
+KeyboardInterrupt
+
+2026-01-04 17:09:59,898 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1643, in find_spec
+  File "<frozen importlib._bootstrap>", line 244, in _verbose_message
+KeyboardInterrupt
+
+2026-01-04 17:09:59,898 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1643, in find_spec
+  File "<frozen importlib._bootstrap>", line 244, in _verbose_message
+KeyboardInterrupt
+
+2026-01-04 17:09:59,898 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1643, in find_spec
+  File "<frozen importlib._bootstrap>", line 244, in _verbose_message
+KeyboardInterrupt
+
+2026-01-04 17:09:59,898 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1643, in find_spec
+  File "<frozen importlib._bootstrap>", line 244, in _verbose_message
+KeyboardInterrupt
+
+2026-01-04 17:09:59,898 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1643, in find_spec
+  File "<frozen importlib._bootstrap>", line 244, in _verbose_message
+KeyboardInterrupt
+
+2026-01-04 17:09:59,898 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1643, in find_spec
+  File "<frozen importlib._bootstrap>", line 244, in _verbose_message
+KeyboardInterrupt
+
+2026-01-04 17:09:59,898 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1643, in find_spec
+  File "<frozen importlib._bootstrap>", line 244, in _verbose_message
+KeyboardInterrupt
+
+2026-01-04 17:09:59,981 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1610, in find_spec
+KeyboardInterrupt
+
+2026-01-04 17:09:59,981 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1610, in find_spec
+KeyboardInterrupt
+
+2026-01-04 17:09:59,981 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1610, in find_spec
+KeyboardInterrupt
+
+2026-01-04 17:09:59,981 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1610, in find_spec
+KeyboardInterrupt
+
+2026-01-04 17:09:59,981 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1610, in find_spec
+KeyboardInterrupt
+
+2026-01-04 17:09:59,981 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1610, in find_spec
+KeyboardInterrupt
+
+2026-01-04 17:10:00,063 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:10:00,063 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:10:00,063 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:10:00,063 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:10:00,063 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:10:00,063 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:10:00,063 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:10:00,063 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:10:00,063 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:10:00,063 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:10:00,063 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:10:00,063 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3285, in eventFilter
+    if event.type() != QEvent.KeyPress:
+                       ^^^^^^^^^^^^^^^
+AttributeError: type object 'QEvent' has no attribute 'KeyPress'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3448, in eventFilter
+    print(f"[DEBUG] eventFilter Error: {e}")
+KeyboardInterrupt
+
+2026-01-04 17:10:00,162 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:10:00,162 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:10:00,162 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:10:00,162 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:10:00,162 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:10:00,162 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1640, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 105, in _path_join
+KeyboardInterrupt
+
+2026-01-04 17:10:00,227 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:10:00,227 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:10:00,227 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:10:00,227 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:10:00,227 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
+2026-01-04 17:10:00,227 - __main__ - CRITICAL - Uncaught exception: Traceback (most recent call last):
+  File "E:\Pos-Offline-main\Pos-Offline-main\pos-offline-main\pos_app\views\sales.py", line 3280, in eventFilter
+    from PySide6.QtCore import QEvent, Qt
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1140, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1080, in _find_spec
+  File "<frozen importlib._bootstrap_external>", line 1504, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 1476, in _get_spec
+  File "<frozen importlib._bootstrap_external>", line 1612, in find_spec
+  File "<frozen importlib._bootstrap_external>", line 147, in _path_stat
+KeyboardInterrupt
+
