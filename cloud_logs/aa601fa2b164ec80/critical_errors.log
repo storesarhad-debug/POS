@@ -1,0 +1,115 @@
+UNCAUGHT EXCEPTION in main(): AttributeError: 'SuppliersWidget' object has no attribute 'on_selection_changed'
+Timestamp: 2026-02-10 17:39:52.441868
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\main.py", line 872, in <module>
+    main()
+  File "C:\Users\pc\Downloads\pos_app\pos_app\main.py", line 625, in main
+    window = MainWindow(controllers, user)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\main_window.py", line 45, in __init__
+    self.setup_ui()
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\main_window.py", line 214, in setup_ui
+    self.suppliers = SuppliersWidget(self.controllers['suppliers'])
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\suppliers.py", line 32, in __init__
+    self.setup_ui()
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\suppliers.py", line 159, in setup_ui
+    self.table.itemSelectionChanged.connect(self.on_selection_changed)
+AttributeError: 'SuppliersWidget' object has no attribute 'on_selection_changed'
+
+================================================================================
+CRITICAL ERROR: AttributeError: 'Expense' object has no attribute 'description'
+Timestamp: 2026-02-12 16:54:33.547157
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\expenses.py", line 418, in export_csv
+    path = self.controller.export_expenses_csv(start, end)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\utils\crash_decorator.py", line 10, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\safe_business_controller.py", line 146, in export_expenses_csv
+    return super().export_expenses_csv(*args, **kwargs)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\controllers\business_logic.py", line 914, in export_expenses_csv
+    'Description': expense.description or '',
+AttributeError: 'Expense' object has no attribute 'description'
+
+================================================================================
+CRITICAL ERROR: TypeError: AdvancedAnalyticsCenter._add_sample_cards.<locals>.<lambda>() missing 1 required positional argument: 'checked'
+Timestamp: 2026-02-12 20:21:57.875698
+Traceback:
+TypeError: AdvancedAnalyticsCenter._add_sample_cards.<locals>.<lambda>() missing 1 required positional argument: 'checked'
+
+================================================================================
+UNCAUGHT EXCEPTION in main(): TypeError: AnalyticsConfig() takes no arguments
+Timestamp: 2026-02-12 20:25:53.774880
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\main.py", line 872, in <module>
+    main()
+  File "C:\Users\pc\Downloads\pos_app\pos_app\main.py", line 625, in main
+    window = MainWindow(controllers, user)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\main_window.py", line 45, in __init__
+    self.setup_ui()
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\main_window.py", line 231, in setup_ui
+    self.advanced_analytics = AdvancedAnalyticsCenter()
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\advanced_analytics_center.py", line 726, in __init__
+    self.config = self._load_config()
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\advanced_analytics_center.py", line 749, in _load_config
+    return AnalyticsConfig(
+TypeError: AnalyticsConfig() takes no arguments
+
+================================================================================
+UNCAUGHT EXCEPTION in main(): NameError: name 'QLineEdit' is not defined
+Timestamp: 2026-02-12 20:50:48.327737
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\main.py", line 872, in <module>
+    main()
+  File "C:\Users\pc\Downloads\pos_app\pos_app\main.py", line 625, in main
+    window = MainWindow(controllers, user)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\main_window.py", line 45, in __init__
+    self.setup_ui()
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\main_window.py", line 229, in setup_ui
+    self.reports = ReportsWidget(self.controllers)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\reports.py", line 27, in __init__
+    self.setup_ui()
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\reports.py", line 79, in setup_ui
+    self.product_search = QLineEdit()
+NameError: name 'QLineEdit' is not defined
+
+================================================================================
+UNCAUGHT EXCEPTION in main(): NameError: name 'QLineEdit' is not defined
+Timestamp: 2026-02-12 20:52:59.870415
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\main.py", line 872, in <module>
+    main()
+  File "C:\Users\pc\Downloads\pos_app\pos_app\main.py", line 625, in main
+    window = MainWindow(controllers, user)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\main_window.py", line 45, in __init__
+    self.setup_ui()
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\main_window.py", line 229, in setup_ui
+    self.reports = ReportsWidget(self.controllers)
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\reports.py", line 27, in __init__
+    self.setup_ui()
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\reports.py", line 79, in setup_ui
+    self.product_search = QLineEdit()
+NameError: name 'QLineEdit' is not defined
+
+================================================================================
+CRITICAL ERROR: AttributeError: 'NoneType' object has no attribute 'stop'
+Timestamp: 2026-02-12 21:12:07.986987
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\reports.py", line 910, in on_product_search_changed
+    self._search_timer.stop()
+AttributeError: 'NoneType' object has no attribute 'stop'
+
+================================================================================
+CRITICAL ERROR: KeyError: 'auth'
+Timestamp: 2026-02-12 21:26:43.000702
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\settings.py", line 2715, in delete_user
+    current_user = self.controllers['auth'].get_current_user()
+KeyError: 'auth'
+
+================================================================================
