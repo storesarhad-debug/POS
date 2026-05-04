@@ -1,0 +1,111 @@
+2026-02-12 20:52:53,407 - app - INFO - Admin user logged in successfully
+2026-02-12 20:55:34,964 - app - INFO - Admin user logged in successfully
+2026-02-12 20:55:54,833 - app - ERROR - Failed to generate product sales report: Can't determine which FROM clause to join from, there are multiple FROMS which can join to this entity. Please use the .select_from() method to establish an explicit left side, as well as providing an explicit ON clause if not present already to help resolve the ambiguity.
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\reports.py", line 766, in generate_product_sales_report
+    sale_items = query.order_by(Sale.sale_date.desc()).all()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\query.py", line 2704, in all
+    return self._iter().all()  # type: ignore
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\query.py", line 2857, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\session.py", line 2249, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\engine\base.py", line 1419, in execute
+    return meth(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\sql\elements.py", line 527, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\engine\base.py", line 1633, in _execute_clauseelement
+    compiled_sql, extracted_params, cache_hit = elem._compile_w_cache(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\sql\elements.py", line 716, in _compile_w_cache
+    compiled_sql = self._compiler(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\sql\elements.py", line 324, in _compiler
+    return dialect.statement_compiler(dialect, self, **kw)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\sql\compiler.py", line 1448, in __init__
+    Compiled.__init__(self, dialect, statement, **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\sql\compiler.py", line 888, in __init__
+    self.string = self.process(self.statement, **compile_kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\sql\compiler.py", line 934, in process
+    return obj._compiler_dispatch(self, **kwargs)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\sql\visitors.py", line 138, in _compiler_dispatch
+    return meth(self, **kw)  # type: ignore  # noqa: E501
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\sql\compiler.py", line 4783, in visit_select
+    compile_state = select_stmt._compile_state_factory(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\sql\base.py", line 701, in create_for_statement
+    return klass.create_for_statement(statement, compiler, **kw)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\context.py", line 447, in create_for_statement
+    return cls._create_orm_context(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\context.py", line 1246, in _create_orm_context
+    self._setup_for_generate()
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\context.py", line 1281, in _setup_for_generate
+    self._join(query._setup_joins, self._entities)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\context.py", line 1922, in _join
+    self._join_left_to_right(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\context.py", line 1957, in _join_left_to_right
+    ) = self._join_determine_implicit_left_side(
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\context.py", line 2112, in _join_determine_implicit_left_side
+    raise sa_exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: Can't determine which FROM clause to join from, there are multiple FROMS which can join to this entity. Please use the .select_from() method to establish an explicit left side, as well as providing an explicit ON clause if not present already to help resolve the ambiguity.
+2026-02-12 20:57:18,620 - app - ERROR - Failed to generate product sales report: Query.select_from() being called on a Query with existing criterion. 
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\reports.py", line 759, in generate_product_sales_report
+    ).select_from(SaleItem)
+  File "<string>", line 2, in select_from
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\sql\base.py", line 284, in _generative
+    x = fn(self, *args, **kw)
+  File "<string>", line 2, in select_from
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\base.py", line 303, in generate
+    assertion(self, fn.__name__)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\query.py", line 425, in _no_clauseelement_condition
+    self._no_criterion_condition(meth)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\query.py", line 407, in _no_criterion_condition
+    self._no_criterion_assertion(meth, order_by, distinct)
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\orm\query.py", line 399, in _no_criterion_assertion
+    raise sa_exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: Query.select_from() being called on a Query with existing criterion. 
+2026-02-12 21:00:44,617 - app - ERROR - Failed to generate product sales report: Boolean value of this clause is not defined
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\reports.py", line 781, in generate_product_sales_report
+    if product_filter:
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\sql\elements.py", line 763, in __bool__
+    raise TypeError("Boolean value of this clause is not defined")
+TypeError: Boolean value of this clause is not defined
+2026-02-12 21:00:44,747 - app - ERROR - Failed to generate product sales report: Boolean value of this clause is not defined
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\reports.py", line 781, in generate_product_sales_report
+    if product_filter:
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\sql\elements.py", line 763, in __bool__
+    raise TypeError("Boolean value of this clause is not defined")
+TypeError: Boolean value of this clause is not defined
+2026-02-12 21:00:46,288 - app - ERROR - Failed to generate product sales report: Boolean value of this clause is not defined
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\reports.py", line 781, in generate_product_sales_report
+    if product_filter:
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\sql\elements.py", line 763, in __bool__
+    raise TypeError("Boolean value of this clause is not defined")
+TypeError: Boolean value of this clause is not defined
+2026-02-12 21:10:30,431 - app - ERROR - Failed to generate product sales report: Boolean value of this clause is not defined
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\reports.py", line 783, in generate_product_sales_report
+    if product_filter:
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\sql\elements.py", line 763, in __bool__
+    raise TypeError("Boolean value of this clause is not defined")
+TypeError: Boolean value of this clause is not defined
+2026-02-12 21:11:47,225 - app - INFO - Admin user logged in successfully
+2026-02-12 21:12:08,652 - app - ERROR - Failed to generate product sales report: Boolean value of this clause is not defined
+Traceback (most recent call last):
+  File "C:\Users\pc\Downloads\pos_app\pos_app\views\reports.py", line 783, in generate_product_sales_report
+    if product_filter:
+  File "C:\Users\pc\AppData\Local\Programs\Python\Python310\lib\site-packages\sqlalchemy\sql\elements.py", line 763, in __bool__
+    raise TypeError("Boolean value of this clause is not defined")
+TypeError: Boolean value of this clause is not defined
+2026-02-12 21:13:21,176 - app - INFO - Admin user logged in successfully
+2026-02-12 21:32:24,436 - app - INFO - Admin user logged in successfully
+2026-02-12 21:35:05,207 - app - INFO - Admin user logged in successfully
+2026-02-12 21:44:18,278 - app - INFO - Cached credentials for user: Subhan
+2026-02-12 21:44:18,283 - app - INFO - User Subhan logged in from database
+2026-02-12 21:48:46,895 - app - INFO - Cached credentials for user: Subhan
+2026-02-12 21:48:46,934 - app - INFO - User Subhan logged in from database
