@@ -1,0 +1,13 @@
+2026-01-27 16:59:18,569 - INFO - POS System starting - Error handler initialized
+2026-01-27 16:59:18,583 - INFO - POS System starting - Error handler initialized
+2026-01-27 16:59:18,585 - INFO - POS System starting - Error handler initialized
+2026-01-27 16:59:18,586 - ERROR - UNHANDLED EXCEPTION: ImportError: cannot import name 'SafeBusinessController' from 'pos_app.controllers.business_logic' (F:\pos_app\controllers\business_logic.py)
+2026-01-27 16:59:18,586 - ERROR - Traceback:
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    from pos_app.models.database import Base; from pos_app.controllers.business_logic import SafeBusinessController; from pos_app.views.sales import ReceiptPreviewDialog; print('Imports successful')
+                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ImportError: cannot import name 'SafeBusinessController' from 'pos_app.controllers.business_logic' (F:\pos_app\controllers\business_logic.py)
+2026-01-27 17:02:04,683 - INFO - POS System starting - Error handler initialized
+2026-01-27 17:02:04,690 - INFO - POS System starting - Error handler initialized
+2026-01-27 17:02:04,692 - INFO - POS System starting - Error handler initialized
