@@ -12128,3 +12128,687 @@ TypeError: Boolean value of this clause is not defined
 2026-05-16 13:30:39 | INFO     | pos_app.utils.cloud_sync | Uploaded log: pos_errors_20260214.log
 2026-05-16 13:30:40 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\pos_errors_20260215.log to GitHub as cloud_logs/aa601fa2b164ec80/pos_errors_20260215.log
 2026-05-16 13:30:40 | INFO     | pos_app.utils.cloud_sync | Uploaded log: pos_errors_20260215.log
+2026-05-16 13:30:44 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\POS_SYSTEM.log to GitHub as cloud_logs/aa601fa2b164ec80/POS_SYSTEM.log
+2026-05-16 13:30:44 | INFO     | pos_app.utils.cloud_sync | Uploaded log: POS_SYSTEM.log
+2026-05-16 13:30:45 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\qt_errors.log to GitHub as cloud_logs/aa601fa2b164ec80/qt_errors.log
+2026-05-16 13:30:45 | INFO     | pos_app.utils.cloud_sync | Uploaded log: qt_errors.log
+2026-05-16 13:30:46 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20250917.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20250917.log
+2026-05-16 13:30:46 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20250917.log
+2026-05-16 13:30:48 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20250920.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20250920.log
+2026-05-16 13:30:48 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20250920.log
+2026-05-16 13:30:49 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20250922.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20250922.log
+2026-05-16 13:30:49 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20250922.log
+2026-05-16 13:30:51 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20250923.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20250923.log
+2026-05-16 13:30:51 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20250923.log
+2026-05-16 13:30:52 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20250924.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20250924.log
+2026-05-16 13:30:52 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20250924.log
+2026-05-16 13:30:54 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20250925.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20250925.log
+2026-05-16 13:30:54 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20250925.log
+2026-05-16 13:30:55 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20250927.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20250927.log
+2026-05-16 13:30:55 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20250927.log
+2026-05-16 13:30:56 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20250928.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20250928.log
+2026-05-16 13:30:56 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20250928.log
+2026-05-16 13:30:58 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251002.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251002.log
+2026-05-16 13:30:58 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251002.log
+2026-05-16 13:30:59 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251003.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251003.log
+2026-05-16 13:30:59 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251003.log
+2026-05-16 13:31:01 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251017.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251017.log
+2026-05-16 13:31:01 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251017.log
+2026-05-16 13:31:02 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251019.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251019.log
+2026-05-16 13:31:02 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251019.log
+2026-05-16 13:31:04 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251020.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251020.log
+2026-05-16 13:31:04 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251020.log
+2026-05-16 13:31:05 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251021.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251021.log
+2026-05-16 13:31:05 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251021.log
+2026-05-16 13:31:06 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251023.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251023.log
+2026-05-16 13:31:06 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251023.log
+2026-05-16 13:31:08 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251028.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251028.log
+2026-05-16 13:31:08 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251028.log
+2026-05-16 13:31:09 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251029.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251029.log
+2026-05-16 13:31:10 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251029.log
+2026-05-16 13:31:11 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251030.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251030.log
+2026-05-16 13:31:11 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251030.log
+2026-05-16 13:31:13 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251103.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251103.log
+2026-05-16 13:31:13 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251103.log
+2026-05-16 13:31:14 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251108.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251108.log
+2026-05-16 13:31:14 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251108.log
+2026-05-16 13:31:16 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251115.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251115.log
+2026-05-16 13:31:16 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251115.log
+2026-05-16 13:31:17 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251118.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251118.log
+2026-05-16 13:31:17 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251118.log
+2026-05-16 13:31:19 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251119.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251119.log
+2026-05-16 13:31:19 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251119.log
+2026-05-16 13:31:20 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251127.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251127.log
+2026-05-16 13:31:20 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251127.log
+2026-05-16 13:31:21 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251209.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251209.log
+2026-05-16 13:31:21 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251209.log
+2026-05-16 13:31:23 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251210.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251210.log
+2026-05-16 13:31:23 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251210.log
+2026-05-16 13:31:24 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251214.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251214.log
+2026-05-16 13:31:24 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251214.log
+2026-05-16 13:31:26 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251215.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251215.log
+2026-05-16 13:31:26 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251215.log
+2026-05-16 13:31:27 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251216.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251216.log
+2026-05-16 13:31:27 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251216.log
+2026-05-16 13:31:28 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251217.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251217.log
+2026-05-16 13:31:28 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251217.log
+2026-05-16 13:31:30 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251218.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251218.log
+2026-05-16 13:31:30 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251218.log
+2026-05-16 13:31:31 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251222.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251222.log
+2026-05-16 13:31:31 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251222.log
+2026-05-16 13:31:33 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251223.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251223.log
+2026-05-16 13:31:33 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251223.log
+2026-05-16 13:31:34 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251224.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251224.log
+2026-05-16 13:31:34 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251224.log
+2026-05-16 13:31:36 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251229.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251229.log
+2026-05-16 13:31:36 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251229.log
+2026-05-16 13:31:37 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251230.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251230.log
+2026-05-16 13:31:37 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251230.log
+2026-05-16 13:31:38 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20251231.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20251231.log
+2026-05-16 13:31:38 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20251231.log
+2026-05-16 13:31:40 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260101.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260101.log
+2026-05-16 13:31:40 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260101.log
+2026-05-16 13:31:41 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260104.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260104.log
+2026-05-16 13:31:41 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260104.log
+2026-05-16 13:31:43 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260105.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260105.log
+2026-05-16 13:31:43 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260105.log
+2026-05-16 13:31:44 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260106.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260106.log
+2026-05-16 13:31:44 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260106.log
+2026-05-16 13:31:46 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260108.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260108.log
+2026-05-16 13:31:46 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260108.log
+2026-05-16 13:31:47 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260114.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260114.log
+2026-05-16 13:31:47 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260114.log
+2026-05-16 13:31:48 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260117.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260117.log
+2026-05-16 13:31:48 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260117.log
+2026-05-16 13:31:50 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260118.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260118.log
+2026-05-16 13:31:50 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260118.log
+2026-05-16 13:31:51 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260124.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260124.log
+2026-05-16 13:31:51 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260124.log
+2026-05-16 13:31:53 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260126.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260126.log
+2026-05-16 13:31:53 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260126.log
+2026-05-16 13:31:54 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260127.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260127.log
+2026-05-16 13:31:54 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260127.log
+2026-05-16 13:31:56 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260128.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260128.log
+2026-05-16 13:31:56 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260128.log
+2026-05-16 13:31:57 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260129.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260129.log
+2026-05-16 13:31:57 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260129.log
+2026-05-16 13:31:58 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260131.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260131.log
+2026-05-16 13:31:58 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260131.log
+2026-05-16 13:32:00 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260207.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260207.log
+2026-05-16 13:32:00 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260207.log
+2026-05-16 13:32:01 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260208.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260208.log
+2026-05-16 13:32:01 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260208.log
+2026-05-16 13:32:03 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260210.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260210.log
+2026-05-16 13:32:03 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260210.log
+2026-05-16 13:32:04 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260212.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260212.log
+2026-05-16 13:32:04 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260212.log
+2026-05-16 13:32:06 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260214.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260214.log
+2026-05-16 13:32:06 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260214.log
+2026-05-16 13:32:07 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260215.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260215.log
+2026-05-16 13:32:07 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260215.log
+2026-05-16 13:32:08 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260305.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260305.log
+2026-05-16 13:32:08 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260305.log
+2026-05-16 13:32:10 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260328.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260328.log
+2026-05-16 13:32:10 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260328.log
+2026-05-16 13:32:11 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260401.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260401.log
+2026-05-16 13:32:11 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260401.log
+2026-05-16 13:32:13 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260406.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260406.log
+2026-05-16 13:32:13 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260406.log
+2026-05-16 13:32:14 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260413.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260413.log
+2026-05-16 13:32:14 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260413.log
+2026-05-16 13:32:15 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260503.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260503.log
+2026-05-16 13:32:16 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260503.log
+2026-05-16 13:32:17 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260504.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260504.log
+2026-05-16 13:32:17 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260504.log
+2026-05-16 13:32:19 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\sales_20260516.log to GitHub as cloud_logs/aa601fa2b164ec80/sales_20260516.log
+2026-05-16 13:32:19 | INFO     | pos_app.utils.cloud_sync | Uploaded log: sales_20260516.log
+2026-05-16 13:32:20 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\ultra_detailed_clicks.log to GitHub as cloud_logs/aa601fa2b164ec80/ultra_detailed_clicks.log
+2026-05-16 13:32:20 | INFO     | pos_app.utils.cloud_sync | Uploaded log: ultra_detailed_clicks.log
+2026-05-16 13:32:21 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\ultra_detailed_data.log to GitHub as cloud_logs/aa601fa2b164ec80/ultra_detailed_data.log
+2026-05-16 13:32:21 | INFO     | pos_app.utils.cloud_sync | Uploaded log: ultra_detailed_data.log
+2026-05-16 13:32:23 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\ultra_detailed_errors.log to GitHub as cloud_logs/aa601fa2b164ec80/ultra_detailed_errors.log
+2026-05-16 13:32:23 | INFO     | pos_app.utils.cloud_sync | Uploaded log: ultra_detailed_errors.log
+2026-05-16 13:32:24 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\ultra_detailed_performance.log to GitHub as cloud_logs/aa601fa2b164ec80/ultra_detailed_performance.log
+2026-05-16 13:32:24 | INFO     | pos_app.utils.cloud_sync | Uploaded log: ultra_detailed_performance.log
+2026-05-16 13:32:26 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\ultra_detailed_stock.log to GitHub as cloud_logs/aa601fa2b164ec80/ultra_detailed_stock.log
+2026-05-16 13:32:26 | INFO     | pos_app.utils.cloud_sync | Uploaded log: ultra_detailed_stock.log
+2026-05-16 13:32:27 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\ultra_detailed_user.log to GitHub as cloud_logs/aa601fa2b164ec80/ultra_detailed_user.log
+2026-05-16 13:32:27 | INFO     | pos_app.utils.cloud_sync | Uploaded log: ultra_detailed_user.log
+2026-05-16 13:32:30 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\__main___20260104.log to GitHub as cloud_logs/aa601fa2b164ec80/__main___20260104.log
+2026-05-16 13:32:30 | INFO     | pos_app.utils.cloud_sync | Uploaded log: __main___20260104.log
+2026-05-16 13:32:31 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\__main___20260105.log to GitHub as cloud_logs/aa601fa2b164ec80/__main___20260105.log
+2026-05-16 13:32:31 | INFO     | pos_app.utils.cloud_sync | Uploaded log: __main___20260105.log
+2026-05-16 13:32:33 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\__main___20260108.log to GitHub as cloud_logs/aa601fa2b164ec80/__main___20260108.log
+2026-05-16 13:32:33 | INFO     | pos_app.utils.cloud_sync | Uploaded log: __main___20260108.log
+2026-05-16 13:32:34 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\__main___20260117.log to GitHub as cloud_logs/aa601fa2b164ec80/__main___20260117.log
+2026-05-16 13:32:34 | INFO     | pos_app.utils.cloud_sync | Uploaded log: __main___20260117.log
+2026-05-16 13:32:36 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\__main___20260126.log to GitHub as cloud_logs/aa601fa2b164ec80/__main___20260126.log
+2026-05-16 13:32:36 | INFO     | pos_app.utils.cloud_sync | Uploaded log: __main___20260126.log
+2026-05-16 13:32:38 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\__main___20260127.log to GitHub as cloud_logs/aa601fa2b164ec80/__main___20260127.log
+2026-05-16 13:32:38 | INFO     | pos_app.utils.cloud_sync | Uploaded log: __main___20260127.log
+2026-05-16 13:32:38 | INFO     | pos_app.utils.cloud_sync | Log upload complete: 309/309 files uploaded
+2026-05-16 13:32:38 | INFO     | pos_app.utils.cloud_sync | Uploading backup...
+2026-05-16 13:32:38 | INFO     | pos_app.utils.cloud_sync | No backup files found
+2026-05-16 13:44:35 | INFO     | root            | ================================================================================
+2026-05-16 13:44:35 | INFO     | root            | POS SYSTEM UNIFIED LOGGING INITIALIZED - 2026-05-16 13:44:35.506267
+2026-05-16 13:44:35 | INFO     | root            | Log File: C:\Users\pc\Downloads\pos_app\pos_app\logs\POS_SYSTEM.log
+2026-05-16 13:44:35 | INFO     | root            | ================================================================================
+2026-05-16 13:44:35 | INFO     | pos_app.utils.startup_validator | [STARTUP] ===== RUNNING FULL STARTUP VALIDATION =====
+2026-05-16 13:44:35 | INFO     | pos_app.utils.startup_validator | [STARTUP] Validating database connection...
+2026-05-16 13:44:35 | INFO     | pos_app.utils.startup_validator | [STARTUP] ✅ Database connection valid
+2026-05-16 13:44:35 | INFO     | pos_app.utils.startup_validator | [STARTUP] Starting database schema validation...
+2026-05-16 13:44:36 | WARNING  | pos_app.utils.startup_validator | [STARTUP] Schema mismatches detected in 9 table(s). Attempting safe fixes...
+2026-05-16 13:44:36 | INFO     | pos_app.utils.startup_validator | [STARTUP] Found 18 columns in sales table
+2026-05-16 13:44:36 | INFO     | pos_app.utils.startup_validator | [STARTUP] ✅ Database schema validation complete
+2026-05-16 13:44:36 | INFO     | pos_app.utils.startup_validator | [STARTUP] ===== STARTUP VALIDATION COMPLETE =====
+2026-05-16 13:44:43 | INFO     | app             | Cached credentials for user: Subhan
+2026-05-16 13:44:43 | INFO     | app             | User Subhan logged in from database
+2026-05-16 13:44:52 | INFO     | Watchdog        | Watchdog disabled
+2026-05-16 13:44:52 | INFO     | root            | Watchdog monitor active (3s timeout)
+2026-05-16 13:44:52 | INFO     | pos_app.utils.cloud_sync | Loading config from: C:\Users\pc\Downloads\pos_app\pos_app\cloud_config.json
+2026-05-16 13:44:52 | INFO     | pos_app.utils.cloud_sync | Cloud sync background thread started
+2026-05-16 13:44:52 | INFO     | pos_app.utils.cloud_sync | Config loaded successfully. cloud_enabled=True, log_upload_enabled=True, backup_upload_enabled=True
+2026-05-16 13:44:52 | INFO     | root            | Cloud sync background thread started
+2026-05-16 13:44:52 | INFO     | pos_app.utils.cloud_sync | Checking for updates...
+2026-05-16 13:44:52 | INFO     | pos_app.utils.cloud_sync | Checking for updates from repo: storesarhad-debug/POS
+2026-05-16 13:44:53 | INFO     | pos_app.utils.cloud_sync | No releases found in repository storesarhad-debug/POS. Create a release to enable auto-updates.
+2026-05-16 13:44:53 | INFO     | pos_app.utils.cloud_sync | Uploading logs...
+2026-05-16 13:44:54 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20250917.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20250917.log
+2026-05-16 13:44:54 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20250917.log
+2026-05-16 13:44:56 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20250920.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20250920.log
+2026-05-16 13:44:56 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20250920.log
+2026-05-16 13:44:57 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20250922.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20250922.log
+2026-05-16 13:44:57 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20250922.log
+2026-05-16 13:44:59 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20250923.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20250923.log
+2026-05-16 13:44:59 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20250923.log
+2026-05-16 13:45:00 | INFO     | pos_app.controllers.business_logic | Creating sale: is_refund=False, customer_id=None, items_count=1
+2026-05-16 13:45:00 | INFO     | pos_app.controllers.business_logic | Validating stock for sale (not refund)
+2026-05-16 13:45:00 | INFO     | pos_app.controllers.business_logic | Processing item: product_id=3818, quantity=1, current_stock=992.0000
+2026-05-16 13:45:00 | INFO     | pos_app.controllers.business_logic | Sale: Decreased stock for product 3818 from 992.0000 to 991.0000
+2026-05-16 13:45:00 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20250924.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20250924.log
+2026-05-16 13:45:00 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20250924.log
+2026-05-16 13:45:00 | INFO     | pos_app.controllers.business_logic | Created sale 16382 with invoice 15723
+2026-05-16 14:51:41 | INFO     | root            | ================================================================================
+2026-05-16 14:51:41 | INFO     | root            | POS SYSTEM UNIFIED LOGGING INITIALIZED - 2026-05-16 14:51:41.225362
+2026-05-16 14:51:41 | INFO     | root            | Log File: C:\Users\pc\Downloads\pos_app\pos_app\logs\POS_SYSTEM.log
+2026-05-16 14:51:41 | INFO     | root            | ================================================================================
+2026-05-16 14:51:41 | INFO     | pos_app.utils.startup_validator | [STARTUP] ===== RUNNING FULL STARTUP VALIDATION =====
+2026-05-16 14:51:41 | INFO     | pos_app.utils.startup_validator | [STARTUP] Validating database connection...
+2026-05-16 14:51:41 | INFO     | pos_app.utils.startup_validator | [STARTUP] ✅ Database connection valid
+2026-05-16 14:51:41 | INFO     | pos_app.utils.startup_validator | [STARTUP] Starting database schema validation...
+2026-05-16 14:51:41 | WARNING  | pos_app.utils.startup_validator | [STARTUP] Schema mismatches detected in 9 table(s). Attempting safe fixes...
+2026-05-16 14:51:41 | INFO     | pos_app.utils.startup_validator | [STARTUP] Found 18 columns in sales table
+2026-05-16 14:51:41 | INFO     | pos_app.utils.startup_validator | [STARTUP] ✅ Database schema validation complete
+2026-05-16 14:51:41 | INFO     | pos_app.utils.startup_validator | [STARTUP] ===== STARTUP VALIDATION COMPLETE =====
+2026-05-16 14:52:04 | INFO     | app             | Cached credentials for user: Subhan
+2026-05-16 14:52:04 | INFO     | app             | User Subhan logged in from database
+2026-05-16 14:52:14 | INFO     | Watchdog        | Watchdog disabled
+2026-05-16 14:52:14 | INFO     | root            | Watchdog monitor active (3s timeout)
+2026-05-16 14:52:14 | INFO     | pos_app.utils.cloud_sync | Loading config from: C:\Users\pc\Downloads\pos_app\pos_app\cloud_config.json
+2026-05-16 14:52:14 | INFO     | pos_app.utils.cloud_sync | Cloud sync background thread started
+2026-05-16 14:52:14 | INFO     | pos_app.utils.cloud_sync | Config loaded successfully. cloud_enabled=True, log_upload_enabled=True, backup_upload_enabled=True
+2026-05-16 14:52:14 | INFO     | root            | Cloud sync background thread started
+2026-05-16 14:52:14 | INFO     | pos_app.utils.cloud_sync | Checking for updates...
+2026-05-16 14:52:14 | INFO     | pos_app.utils.cloud_sync | Checking for updates from repo: storesarhad-debug/POS
+2026-05-16 14:52:14 | INFO     | pos_app.utils.cloud_sync | No releases found in repository storesarhad-debug/POS. Create a release to enable auto-updates.
+2026-05-16 14:52:14 | INFO     | pos_app.utils.cloud_sync | Uploading logs...
+2026-05-16 14:52:16 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20250917.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20250917.log
+2026-05-16 14:52:16 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20250917.log
+2026-05-16 14:52:17 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20250920.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20250920.log
+2026-05-16 14:52:17 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20250920.log
+2026-05-16 14:52:19 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20250922.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20250922.log
+2026-05-16 14:52:19 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20250922.log
+2026-05-16 14:52:20 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20250923.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20250923.log
+2026-05-16 14:52:20 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20250923.log
+2026-05-16 14:52:21 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20250924.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20250924.log
+2026-05-16 14:52:21 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20250924.log
+2026-05-16 14:52:23 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20250925.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20250925.log
+2026-05-16 14:52:23 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20250925.log
+2026-05-16 14:52:24 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20250927.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20250927.log
+2026-05-16 14:52:24 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20250927.log
+2026-05-16 14:52:26 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20250928.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20250928.log
+2026-05-16 14:52:26 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20250928.log
+2026-05-16 14:52:27 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251002.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251002.log
+2026-05-16 14:52:27 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251002.log
+2026-05-16 14:52:29 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251003.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251003.log
+2026-05-16 14:52:29 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251003.log
+2026-05-16 14:52:30 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251017.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251017.log
+2026-05-16 14:52:30 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251017.log
+2026-05-16 14:52:32 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251019.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251019.log
+2026-05-16 14:52:32 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251019.log
+2026-05-16 14:52:34 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251020.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251020.log
+2026-05-16 14:52:34 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251020.log
+2026-05-16 14:52:35 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251021.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251021.log
+2026-05-16 14:52:35 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251021.log
+2026-05-16 14:52:37 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251023.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251023.log
+2026-05-16 14:52:37 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251023.log
+2026-05-16 14:52:38 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251028.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251028.log
+2026-05-16 14:52:38 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251028.log
+2026-05-16 14:52:39 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251029.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251029.log
+2026-05-16 14:52:39 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251029.log
+2026-05-16 14:52:41 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251030.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251030.log
+2026-05-16 14:52:41 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251030.log
+2026-05-16 14:52:42 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251103.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251103.log
+2026-05-16 14:52:42 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251103.log
+2026-05-16 14:52:44 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251108.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251108.log
+2026-05-16 14:52:44 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251108.log
+2026-05-16 14:52:45 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251115.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251115.log
+2026-05-16 14:52:45 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251115.log
+2026-05-16 14:52:46 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251118.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251118.log
+2026-05-16 14:52:46 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251118.log
+2026-05-16 14:52:48 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251119.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251119.log
+2026-05-16 14:52:48 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251119.log
+2026-05-16 14:52:49 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251127.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251127.log
+2026-05-16 14:52:49 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251127.log
+2026-05-16 14:52:50 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251209.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251209.log
+2026-05-16 14:52:50 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251209.log
+2026-05-16 14:52:52 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251210.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251210.log
+2026-05-16 14:52:52 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251210.log
+2026-05-16 14:52:53 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251214.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251214.log
+2026-05-16 14:52:53 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251214.log
+2026-05-16 14:52:55 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251215.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251215.log
+2026-05-16 14:52:55 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251215.log
+2026-05-16 14:52:56 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251216.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251216.log
+2026-05-16 14:52:56 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251216.log
+2026-05-16 14:52:58 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251217.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251217.log
+2026-05-16 14:52:58 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251217.log
+2026-05-16 14:52:59 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251218.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251218.log
+2026-05-16 14:52:59 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251218.log
+2026-05-16 14:53:01 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251222.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251222.log
+2026-05-16 14:53:01 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251222.log
+2026-05-16 14:53:02 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251223.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251223.log
+2026-05-16 14:53:02 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251223.log
+2026-05-16 14:53:04 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251224.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251224.log
+2026-05-16 14:53:04 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251224.log
+2026-05-16 14:53:05 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251229.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251229.log
+2026-05-16 14:53:05 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251229.log
+2026-05-16 14:53:07 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251230.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251230.log
+2026-05-16 14:53:07 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251230.log
+2026-05-16 14:53:08 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20251231.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20251231.log
+2026-05-16 14:53:08 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20251231.log
+2026-05-16 14:53:09 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260101.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260101.log
+2026-05-16 14:53:09 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260101.log
+2026-05-16 14:53:11 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260104.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260104.log
+2026-05-16 14:53:11 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260104.log
+2026-05-16 14:53:12 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260105.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260105.log
+2026-05-16 14:53:12 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260105.log
+2026-05-16 14:53:14 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260106.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260106.log
+2026-05-16 14:53:14 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260106.log
+2026-05-16 14:53:15 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260108.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260108.log
+2026-05-16 14:53:15 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260108.log
+2026-05-16 14:53:17 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260114.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260114.log
+2026-05-16 14:53:17 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260114.log
+2026-05-16 14:53:18 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260117.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260117.log
+2026-05-16 14:53:18 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260117.log
+2026-05-16 14:53:19 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260118.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260118.log
+2026-05-16 14:53:19 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260118.log
+2026-05-16 14:53:21 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260124.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260124.log
+2026-05-16 14:53:21 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260124.log
+2026-05-16 14:53:22 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260126.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260126.log
+2026-05-16 14:53:22 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260126.log
+2026-05-16 14:53:24 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260127.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260127.log
+2026-05-16 14:53:24 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260127.log
+2026-05-16 14:53:25 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260128.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260128.log
+2026-05-16 14:53:25 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260128.log
+2026-05-16 14:53:27 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260129.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260129.log
+2026-05-16 14:53:27 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260129.log
+2026-05-16 14:53:28 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260131.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260131.log
+2026-05-16 14:53:28 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260131.log
+2026-05-16 14:53:29 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260207.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260207.log
+2026-05-16 14:53:29 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260207.log
+2026-05-16 14:53:31 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260208.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260208.log
+2026-05-16 14:53:31 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260208.log
+2026-05-16 14:53:32 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260210.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260210.log
+2026-05-16 14:53:32 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260210.log
+2026-05-16 14:53:34 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260212.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260212.log
+2026-05-16 14:53:34 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260212.log
+2026-05-16 14:53:35 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260214.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260214.log
+2026-05-16 14:53:35 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260214.log
+2026-05-16 14:53:36 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260215.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260215.log
+2026-05-16 14:53:36 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260215.log
+2026-05-16 14:53:38 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260305.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260305.log
+2026-05-16 14:53:38 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260305.log
+2026-05-16 14:53:39 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260328.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260328.log
+2026-05-16 14:53:39 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260328.log
+2026-05-16 14:53:41 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260401.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260401.log
+2026-05-16 14:53:41 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260401.log
+2026-05-16 14:53:42 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260406.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260406.log
+2026-05-16 14:53:42 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260406.log
+2026-05-16 14:53:44 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260413.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260413.log
+2026-05-16 14:53:44 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260413.log
+2026-05-16 14:53:45 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260503.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260503.log
+2026-05-16 14:53:45 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260503.log
+2026-05-16 14:53:47 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260504.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260504.log
+2026-05-16 14:53:47 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260504.log
+2026-05-16 14:53:48 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\app_20260516.log to GitHub as cloud_logs/aa601fa2b164ec80/app_20260516.log
+2026-05-16 14:53:48 | INFO     | pos_app.utils.cloud_sync | Uploaded log: app_20260516.log
+2026-05-16 14:53:50 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\business_controller_20260104.log to GitHub as cloud_logs/aa601fa2b164ec80/business_controller_20260104.log
+2026-05-16 14:53:50 | INFO     | pos_app.utils.cloud_sync | Uploaded log: business_controller_20260104.log
+2026-05-16 14:53:52 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes.log
+2026-05-16 14:53:52 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes.log
+2026-05-16 14:53:54 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260124.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260124.log
+2026-05-16 14:53:54 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260124.log
+2026-05-16 14:53:55 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260126.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260126.log
+2026-05-16 14:53:55 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260126.log
+2026-05-16 14:53:56 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260127.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260127.log
+2026-05-16 14:53:56 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260127.log
+2026-05-16 14:53:58 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260128.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260128.log
+2026-05-16 14:53:58 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260128.log
+2026-05-16 14:54:00 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260129.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260129.log
+2026-05-16 14:54:00 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260129.log
+2026-05-16 14:54:02 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260131.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260131.log
+2026-05-16 14:54:02 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260131.log
+2026-05-16 14:54:03 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260207.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260207.log
+2026-05-16 14:54:03 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260207.log
+2026-05-16 14:54:04 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260208.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260208.log
+2026-05-16 14:54:04 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260208.log
+2026-05-16 14:54:06 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260210.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260210.log
+2026-05-16 14:54:06 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260210.log
+2026-05-16 14:54:08 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260212.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260212.log
+2026-05-16 14:54:08 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260212.log
+2026-05-16 14:54:09 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260214.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260214.log
+2026-05-16 14:54:09 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260214.log
+2026-05-16 14:54:11 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260215.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260215.log
+2026-05-16 14:54:11 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260215.log
+2026-05-16 14:54:13 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260305.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260305.log
+2026-05-16 14:54:13 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260305.log
+2026-05-16 14:54:14 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260328.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260328.log
+2026-05-16 14:54:14 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260328.log
+2026-05-16 14:54:16 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260406.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260406.log
+2026-05-16 14:54:16 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260406.log
+2026-05-16 14:54:17 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260413.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260413.log
+2026-05-16 14:54:17 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260413.log
+2026-05-16 14:54:18 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260504.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260504.log
+2026-05-16 14:54:18 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260504.log
+2026-05-16 14:54:20 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\crashes_20260516.log to GitHub as cloud_logs/aa601fa2b164ec80/crashes_20260516.log
+2026-05-16 14:54:20 | INFO     | pos_app.utils.cloud_sync | Uploaded log: crashes_20260516.log
+2026-05-16 14:54:21 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\CRITICAL_CRASH.txt to GitHub as cloud_logs/aa601fa2b164ec80/CRITICAL_CRASH.txt
+2026-05-16 14:54:21 | INFO     | pos_app.utils.cloud_sync | Uploaded log: CRITICAL_CRASH.txt
+2026-05-16 14:54:23 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\critical_errors.log to GitHub as cloud_logs/aa601fa2b164ec80/critical_errors.log
+2026-05-16 14:54:23 | INFO     | pos_app.utils.cloud_sync | Uploaded log: critical_errors.log
+2026-05-16 14:54:24 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20250917.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20250917.log
+2026-05-16 14:54:24 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20250917.log
+2026-05-16 14:54:25 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20250920.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20250920.log
+2026-05-16 14:54:25 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20250920.log
+2026-05-16 14:54:27 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20250922.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20250922.log
+2026-05-16 14:54:27 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20250922.log
+2026-05-16 14:54:28 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20250923.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20250923.log
+2026-05-16 14:54:28 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20250923.log
+2026-05-16 14:54:30 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20250924.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20250924.log
+2026-05-16 14:54:30 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20250924.log
+2026-05-16 14:54:31 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20250925.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20250925.log
+2026-05-16 14:54:31 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20250925.log
+2026-05-16 14:54:32 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20250927.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20250927.log
+2026-05-16 14:54:32 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20250927.log
+2026-05-16 14:54:34 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20250928.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20250928.log
+2026-05-16 14:54:34 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20250928.log
+2026-05-16 14:54:36 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251002.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251002.log
+2026-05-16 14:54:36 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251002.log
+2026-05-16 14:54:37 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251003.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251003.log
+2026-05-16 14:54:37 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251003.log
+2026-05-16 14:54:39 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251017.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251017.log
+2026-05-16 14:54:39 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251017.log
+2026-05-16 14:54:40 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251019.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251019.log
+2026-05-16 14:54:40 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251019.log
+2026-05-16 14:54:42 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251020.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251020.log
+2026-05-16 14:54:42 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251020.log
+2026-05-16 14:54:43 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251021.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251021.log
+2026-05-16 14:54:43 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251021.log
+2026-05-16 14:54:44 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251023.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251023.log
+2026-05-16 14:54:44 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251023.log
+2026-05-16 14:54:46 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251028.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251028.log
+2026-05-16 14:54:46 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251028.log
+2026-05-16 14:54:47 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251029.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251029.log
+2026-05-16 14:54:47 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251029.log
+2026-05-16 14:54:49 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251030.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251030.log
+2026-05-16 14:54:49 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251030.log
+2026-05-16 14:54:50 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251103.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251103.log
+2026-05-16 14:54:50 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251103.log
+2026-05-16 14:54:51 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251108.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251108.log
+2026-05-16 14:54:51 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251108.log
+2026-05-16 14:54:53 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251115.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251115.log
+2026-05-16 14:54:53 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251115.log
+2026-05-16 14:54:54 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251118.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251118.log
+2026-05-16 14:54:54 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251118.log
+2026-05-16 14:54:55 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251119.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251119.log
+2026-05-16 14:54:55 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251119.log
+2026-05-16 14:54:57 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251127.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251127.log
+2026-05-16 14:54:57 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251127.log
+2026-05-16 14:54:58 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251209.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251209.log
+2026-05-16 14:54:58 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251209.log
+2026-05-16 14:55:00 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251210.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251210.log
+2026-05-16 14:55:00 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251210.log
+2026-05-16 14:55:01 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251214.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251214.log
+2026-05-16 14:55:01 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251214.log
+2026-05-16 14:55:02 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251215.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251215.log
+2026-05-16 14:55:02 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251215.log
+2026-05-16 14:55:04 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251216.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251216.log
+2026-05-16 14:55:04 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251216.log
+2026-05-16 14:55:05 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251217.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251217.log
+2026-05-16 14:55:05 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251217.log
+2026-05-16 14:55:07 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251218.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251218.log
+2026-05-16 14:55:07 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251218.log
+2026-05-16 14:55:08 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251222.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251222.log
+2026-05-16 14:55:08 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251222.log
+2026-05-16 14:55:09 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251223.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251223.log
+2026-05-16 14:55:09 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251223.log
+2026-05-16 14:55:11 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251224.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251224.log
+2026-05-16 14:55:11 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251224.log
+2026-05-16 14:55:12 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251229.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251229.log
+2026-05-16 14:55:12 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251229.log
+2026-05-16 14:55:14 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251230.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251230.log
+2026-05-16 14:55:14 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251230.log
+2026-05-16 14:55:15 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20251231.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20251231.log
+2026-05-16 14:55:15 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20251231.log
+2026-05-16 14:55:17 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260101.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260101.log
+2026-05-16 14:55:17 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260101.log
+2026-05-16 14:55:18 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260104.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260104.log
+2026-05-16 14:55:18 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260104.log
+2026-05-16 14:55:20 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260105.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260105.log
+2026-05-16 14:55:20 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260105.log
+2026-05-16 14:55:21 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260106.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260106.log
+2026-05-16 14:55:21 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260106.log
+2026-05-16 14:55:22 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260108.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260108.log
+2026-05-16 14:55:22 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260108.log
+2026-05-16 14:55:24 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260114.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260114.log
+2026-05-16 14:55:24 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260114.log
+2026-05-16 14:55:25 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260117.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260117.log
+2026-05-16 14:55:25 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260117.log
+2026-05-16 14:55:26 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260118.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260118.log
+2026-05-16 14:55:26 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260118.log
+2026-05-16 14:55:28 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260124.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260124.log
+2026-05-16 14:55:28 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260124.log
+2026-05-16 14:55:29 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260126.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260126.log
+2026-05-16 14:55:29 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260126.log
+2026-05-16 14:55:31 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260127.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260127.log
+2026-05-16 14:55:31 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260127.log
+2026-05-16 14:55:32 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260128.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260128.log
+2026-05-16 14:55:32 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260128.log
+2026-05-16 14:55:33 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260129.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260129.log
+2026-05-16 14:55:33 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260129.log
+2026-05-16 14:55:35 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260131.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260131.log
+2026-05-16 14:55:35 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260131.log
+2026-05-16 14:55:36 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260207.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260207.log
+2026-05-16 14:55:36 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260207.log
+2026-05-16 14:55:37 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260208.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260208.log
+2026-05-16 14:55:37 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260208.log
+2026-05-16 14:55:39 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260210.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260210.log
+2026-05-16 14:55:39 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260210.log
+2026-05-16 14:55:40 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260212.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260212.log
+2026-05-16 14:55:40 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260212.log
+2026-05-16 14:55:42 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260214.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260214.log
+2026-05-16 14:55:42 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260214.log
+2026-05-16 14:55:43 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260215.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260215.log
+2026-05-16 14:55:43 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260215.log
+2026-05-16 14:55:45 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260305.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260305.log
+2026-05-16 14:55:45 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260305.log
+2026-05-16 14:55:46 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260328.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260328.log
+2026-05-16 14:55:46 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260328.log
+2026-05-16 14:55:47 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260401.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260401.log
+2026-05-16 14:55:47 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260401.log
+2026-05-16 14:55:49 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260406.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260406.log
+2026-05-16 14:55:49 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260406.log
+2026-05-16 14:55:50 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260413.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260413.log
+2026-05-16 14:55:50 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260413.log
+2026-05-16 14:55:52 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260503.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260503.log
+2026-05-16 14:55:52 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260503.log
+2026-05-16 14:55:53 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260504.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260504.log
+2026-05-16 14:55:53 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260504.log
+2026-05-16 14:55:55 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\database_20260516.log to GitHub as cloud_logs/aa601fa2b164ec80/database_20260516.log
+2026-05-16 14:55:55 | INFO     | pos_app.utils.cloud_sync | Uploaded log: database_20260516.log
+2026-05-16 14:55:57 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20250917.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20250917.log
+2026-05-16 14:55:57 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20250917.log
+2026-05-16 14:55:58 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20250920.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20250920.log
+2026-05-16 14:55:58 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20250920.log
+2026-05-16 14:55:59 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20250922.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20250922.log
+2026-05-16 14:55:59 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20250922.log
+2026-05-16 14:56:01 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20250923.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20250923.log
+2026-05-16 14:56:01 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20250923.log
+2026-05-16 14:56:02 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20250924.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20250924.log
+2026-05-16 14:56:02 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20250924.log
+2026-05-16 14:56:04 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20250925.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20250925.log
+2026-05-16 14:56:04 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20250925.log
+2026-05-16 14:56:05 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20250927.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20250927.log
+2026-05-16 14:56:05 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20250927.log
+2026-05-16 14:56:06 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20250928.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20250928.log
+2026-05-16 14:56:06 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20250928.log
+2026-05-16 14:56:08 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251002.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251002.log
+2026-05-16 14:56:08 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251002.log
+2026-05-16 14:56:09 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251003.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251003.log
+2026-05-16 14:56:09 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251003.log
+2026-05-16 14:56:11 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251017.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251017.log
+2026-05-16 14:56:11 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251017.log
+2026-05-16 14:56:12 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251019.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251019.log
+2026-05-16 14:56:12 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251019.log
+2026-05-16 14:56:13 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251020.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251020.log
+2026-05-16 14:56:13 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251020.log
+2026-05-16 14:56:15 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251021.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251021.log
+2026-05-16 14:56:15 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251021.log
+2026-05-16 14:56:16 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251023.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251023.log
+2026-05-16 14:56:16 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251023.log
+2026-05-16 14:56:18 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251028.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251028.log
+2026-05-16 14:56:18 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251028.log
+2026-05-16 14:56:19 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251029.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251029.log
+2026-05-16 14:56:19 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251029.log
+2026-05-16 14:56:21 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251030.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251030.log
+2026-05-16 14:56:21 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251030.log
+2026-05-16 14:56:22 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251103.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251103.log
+2026-05-16 14:56:22 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251103.log
+2026-05-16 14:56:23 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251108.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251108.log
+2026-05-16 14:56:23 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251108.log
+2026-05-16 14:56:25 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251115.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251115.log
+2026-05-16 14:56:25 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251115.log
+2026-05-16 14:56:26 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251118.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251118.log
+2026-05-16 14:56:26 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251118.log
+2026-05-16 14:56:27 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251119.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251119.log
+2026-05-16 14:56:27 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251119.log
+2026-05-16 14:56:29 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251127.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251127.log
+2026-05-16 14:56:29 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251127.log
+2026-05-16 14:56:30 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251209.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251209.log
+2026-05-16 14:56:30 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251209.log
+2026-05-16 14:56:32 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251210.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251210.log
+2026-05-16 14:56:32 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251210.log
+2026-05-16 14:56:33 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251214.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251214.log
+2026-05-16 14:56:33 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251214.log
+2026-05-16 14:56:35 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251215.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251215.log
+2026-05-16 14:56:35 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251215.log
+2026-05-16 14:56:36 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251216.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251216.log
+2026-05-16 14:56:36 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251216.log
+2026-05-16 14:56:37 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251217.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251217.log
+2026-05-16 14:56:37 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251217.log
+2026-05-16 14:56:39 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251218.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251218.log
+2026-05-16 14:56:39 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251218.log
+2026-05-16 14:56:40 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251222.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251222.log
+2026-05-16 14:56:40 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251222.log
+2026-05-16 14:56:42 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251223.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251223.log
+2026-05-16 14:56:42 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251223.log
+2026-05-16 14:56:43 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251224.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251224.log
+2026-05-16 14:56:43 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251224.log
+2026-05-16 14:56:44 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251229.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251229.log
+2026-05-16 14:56:44 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251229.log
+2026-05-16 14:56:46 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251230.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251230.log
+2026-05-16 14:56:46 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251230.log
+2026-05-16 14:56:47 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20251231.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20251231.log
+2026-05-16 14:56:47 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20251231.log
+2026-05-16 14:56:49 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260101.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260101.log
+2026-05-16 14:56:49 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260101.log
+2026-05-16 14:56:50 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260104.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260104.log
+2026-05-16 14:56:50 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260104.log
+2026-05-16 14:56:51 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260105.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260105.log
+2026-05-16 14:56:51 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260105.log
+2026-05-16 14:56:53 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260106.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260106.log
+2026-05-16 14:56:53 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260106.log
+2026-05-16 14:56:54 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260108.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260108.log
+2026-05-16 14:56:54 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260108.log
+2026-05-16 14:56:56 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260114.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260114.log
+2026-05-16 14:56:56 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260114.log
+2026-05-16 14:56:57 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260117.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260117.log
+2026-05-16 14:56:57 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260117.log
+2026-05-16 14:56:58 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260118.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260118.log
+2026-05-16 14:56:58 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260118.log
+2026-05-16 14:57:00 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260124.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260124.log
+2026-05-16 14:57:00 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260124.log
+2026-05-16 14:57:01 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260126.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260126.log
+2026-05-16 14:57:01 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260126.log
+2026-05-16 14:57:03 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260127.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260127.log
+2026-05-16 14:57:03 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260127.log
+2026-05-16 14:57:04 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260128.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260128.log
+2026-05-16 14:57:04 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260128.log
+2026-05-16 14:57:05 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260129.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260129.log
+2026-05-16 14:57:05 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260129.log
+2026-05-16 14:57:07 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260131.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260131.log
+2026-05-16 14:57:07 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260131.log
+2026-05-16 14:57:08 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260207.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260207.log
+2026-05-16 14:57:08 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260207.log
+2026-05-16 14:57:10 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260208.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260208.log
+2026-05-16 14:57:10 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260208.log
+2026-05-16 14:57:11 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260210.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260210.log
+2026-05-16 14:57:11 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260210.log
+2026-05-16 14:57:12 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260212.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260212.log
+2026-05-16 14:57:12 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260212.log
+2026-05-16 14:57:14 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260214.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260214.log
+2026-05-16 14:57:14 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260214.log
+2026-05-16 14:57:15 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260215.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260215.log
+2026-05-16 14:57:15 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260215.log
+2026-05-16 14:57:17 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260305.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260305.log
+2026-05-16 14:57:17 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260305.log
+2026-05-16 14:57:18 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260328.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260328.log
+2026-05-16 14:57:18 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260328.log
+2026-05-16 14:57:19 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260401.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260401.log
+2026-05-16 14:57:19 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260401.log
+2026-05-16 14:57:21 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260406.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260406.log
+2026-05-16 14:57:21 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260406.log
+2026-05-16 14:57:22 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260413.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260413.log
+2026-05-16 14:57:22 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260413.log
+2026-05-16 14:57:24 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260503.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260503.log
+2026-05-16 14:57:24 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260503.log
+2026-05-16 14:57:25 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260504.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260504.log
+2026-05-16 14:57:25 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260504.log
+2026-05-16 14:57:27 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\inventory_20260516.log to GitHub as cloud_logs/aa601fa2b164ec80/inventory_20260516.log
+2026-05-16 14:57:27 | INFO     | pos_app.utils.cloud_sync | Uploaded log: inventory_20260516.log
+2026-05-16 14:57:29 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\pos_errors.log to GitHub as cloud_logs/aa601fa2b164ec80/pos_errors.log
+2026-05-16 14:57:29 | INFO     | pos_app.utils.cloud_sync | Uploaded log: pos_errors.log
+2026-05-16 14:57:30 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\pos_errors_20260104.log to GitHub as cloud_logs/aa601fa2b164ec80/pos_errors_20260104.log
+2026-05-16 14:57:30 | INFO     | pos_app.utils.cloud_sync | Uploaded log: pos_errors_20260104.log
+2026-05-16 14:57:32 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\pos_errors_20260105.log to GitHub as cloud_logs/aa601fa2b164ec80/pos_errors_20260105.log
+2026-05-16 14:57:32 | INFO     | pos_app.utils.cloud_sync | Uploaded log: pos_errors_20260105.log
+2026-05-16 14:57:33 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\pos_errors_20260106.log to GitHub as cloud_logs/aa601fa2b164ec80/pos_errors_20260106.log
+2026-05-16 14:57:33 | INFO     | pos_app.utils.cloud_sync | Uploaded log: pos_errors_20260106.log
+2026-05-16 14:57:35 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\pos_errors_20260108.log to GitHub as cloud_logs/aa601fa2b164ec80/pos_errors_20260108.log
+2026-05-16 14:57:35 | INFO     | pos_app.utils.cloud_sync | Uploaded log: pos_errors_20260108.log
+2026-05-16 14:57:36 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\pos_errors_20260114.log to GitHub as cloud_logs/aa601fa2b164ec80/pos_errors_20260114.log
+2026-05-16 14:57:36 | INFO     | pos_app.utils.cloud_sync | Uploaded log: pos_errors_20260114.log
+2026-05-16 14:57:38 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\pos_errors_20260117.log to GitHub as cloud_logs/aa601fa2b164ec80/pos_errors_20260117.log
+2026-05-16 14:57:38 | INFO     | pos_app.utils.cloud_sync | Uploaded log: pos_errors_20260117.log
+2026-05-16 14:57:39 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\pos_errors_20260118.log to GitHub as cloud_logs/aa601fa2b164ec80/pos_errors_20260118.log
+2026-05-16 14:57:39 | INFO     | pos_app.utils.cloud_sync | Uploaded log: pos_errors_20260118.log
+2026-05-16 14:57:41 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\pos_errors_20260124.log to GitHub as cloud_logs/aa601fa2b164ec80/pos_errors_20260124.log
+2026-05-16 14:57:41 | INFO     | pos_app.utils.cloud_sync | Uploaded log: pos_errors_20260124.log
+2026-05-16 14:57:42 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\pos_errors_20260126.log to GitHub as cloud_logs/aa601fa2b164ec80/pos_errors_20260126.log
+2026-05-16 14:57:42 | INFO     | pos_app.utils.cloud_sync | Uploaded log: pos_errors_20260126.log
+2026-05-16 14:57:43 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\pos_errors_20260127.log to GitHub as cloud_logs/aa601fa2b164ec80/pos_errors_20260127.log
+2026-05-16 14:57:43 | INFO     | pos_app.utils.cloud_sync | Uploaded log: pos_errors_20260127.log
+2026-05-16 14:57:45 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\pos_errors_20260214.log to GitHub as cloud_logs/aa601fa2b164ec80/pos_errors_20260214.log
+2026-05-16 14:57:45 | INFO     | pos_app.utils.cloud_sync | Uploaded log: pos_errors_20260214.log
+2026-05-16 14:57:46 | INFO     | pos_app.utils.cloud_sync | Successfully uploaded C:\Users\pc\Downloads\pos_app\pos_app\logs\pos_errors_20260215.log to GitHub as cloud_logs/aa601fa2b164ec80/pos_errors_20260215.log
+2026-05-16 14:57:46 | INFO     | pos_app.utils.cloud_sync | Uploaded log: pos_errors_20260215.log
